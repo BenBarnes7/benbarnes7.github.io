@@ -1,7 +1,52 @@
+#!/usr/bin/python
+import sys
+import subprocess
+import os
+from optparse import OptionParser
+
+parser = OptionParser()
+
+parser.add_option("-f", "--file", dest="file", help="The markdown file to convert")
+(options, args) = parser.parse_args()
+
+def main():
+	print "Converting", os.path.abspath(options.file)
+	
+	if not(options.file):
+		print "No file specified, exiting"
+		sys.exit(1)
+	
+	# with  as output_f:
+	# print 'Output will goto %s.html' % os.path.abspath(options.file)
+	p = subprocess.Popen('markdown %s' % options.file,
+									stdout=subprocess.PIPE,
+									shell=True)
+	
+	output_file = open('%s.html' % options.file, 'w+') # TODO Add date or something too?
+	
+	output_file.write("""<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>test.md.html</title>
+		<script type="text/javascript" src="tests.js"></script>
+		<link href="tests.css" rel='stylesheet' type='text/css'>
+	</head>
+	<body>
+	""")
+	output_file.write(p.stdout.read())
+	output_file.write("""
+	</body>
+</html>
+	""")
+	
+
+main()
+
 
 **Introduction:**
 
-        This document is intended to provide ease of review of the standard processes, their inputs, tool, techniques, and outputs for the Project Management Institute&#39;s Guide to Business Analysis Body of Knowledge. Subject regarding Chapters One through Three are: Introduction, The Environment in Which Business Analysis is Conducted, and The Role of the Business Analyst. These three chapters were not included in this document as the standard business analysis processes are covered in Chapters Four through Nine.
+This document is intended to provide ease of review of the standard processes, their inputs, tool, techniques, and outputs for the Project Management Institute&#39;s Guide to Business Analysis Body of Knowledge. Subject regarding Chapters One through Three are: Introduction, The Environment in Which Business Analysis is Conducted, and The Role of the Business Analyst. These three chapters were not included in this document as the standard business analysis processes are covered in Chapters Four through Nine.
 
 
 
