@@ -23,7 +23,7 @@ This document is intended to provide ease of review of the standard processes, t
 
 **PMI Guide to Business Analysis**
 
-**4**         **NEEDS ASSESSMENT**
+**4** **NEEDS ASSESSMENT**
 
  Is the process that guides investment decisions by organizations. During project work, these activities occur to ensure that organizational and business practices stay aligned. Needs Assessment activities are performed to assess the internal and external environments, and current capabilities of the organization to determine a set of viable solutions that would help the organizations business needs.
 
@@ -78,10 +78,10 @@ Business analysis activities should be focused on analyzing the areas relevant f
 - **Capability Framework:** set of descriptions about skills, knowledge, abilities, systems, and overall competencies of an organization.
 - **Capability Table:** used for analyzing capabilities in a current or future state
 - **Elicitation techniques:**
-  - **oo**** Document Analysis:**  May be used to analyze existing documentation to identify current state of training materials, product literature, sop&#39;s, or deliverables.
-  - **oo**** Interviews:**  formal or informal approach to elicit information from stakeholders regarding current state.
-  - **oo**** Observation:** an elicitation technique that provides a direct way of assessing current process or how a product is used.
-  - **oo**** Questionnaires &amp; Surveys:**
+  -  Document Analysis:**  May be used to analyze existing documentation to identify current state of training materials, product literature, sop&#39;s, or deliverables.
+  -  Interviews:**  formal or informal approach to elicit information from stakeholders regarding current state.
+  -  Observation:** an elicitation technique that provides a direct way of assessing current process or how a product is used.
+  -  Questionnaires &amp; Surveys:**
 - **Glossary:**  list of definitions for terms about a product.
 - **Pareto Diagrams**
 - **Process Flows:**  describe processes and the ways stakeholders interact with those processes. Can document current or future state workflows.
@@ -112,8 +112,8 @@ Involves conducting further elicitation to define changes to address what change
 - **Affinity Diagram:**  display categories (and subcategories) of ideas that cluster or have an affinity to one another. Used to process large sets of information or ideas into manageable sets of data organized by categories.
 - **Benchmarking:**
 - **Elicitation Techniques:** are used to draw information from different sources. A few common techniques that are effective during future state analysis include:
-  - **oo**** Brainstorming:**  used to identify a list of ideas within a short period of time. During future state analysis, the product team conducts conversations about potential capabilities that the organization might consider for addressing the situation.
-  - **oo**** Facilitated Workshops:**  structured meets led by a skilled, neutral facilitator and a carefully selected group of stakeholders to collaborate and work towards a stated objective.
+  - Brainstorming:**  used to identify a list of ideas within a short period of time. During future state analysis, the product team conducts conversations about potential capabilities that the organization might consider for addressing the situation.
+  -  Facilitated Workshops:**  structured meets led by a skilled, neutral facilitator and a carefully selected group of stakeholders to collaborate and work towards a stated objective.
 - **Feature Model:**  visual representation of all the features of a solution arranged in a tree or structure.
 - **Kano Analysis:**  technique used to model and analyze product features from the viewpoint of the customer.
 - **Process Flows:**  used to depict the current state and used as a starting point for discussions concerning the changed desired and required for future state.
@@ -135,27 +135,27 @@ Involves conducting further elicitation to define changes to address what change
 
  The activity of evaluating factors of conducting feasibility analysis to determine the viability of product options may include: constraints, assumptions, dependencies, culture (organizational), operational and technology feasibility, supportability, cost-effectiveness feasibility, schedule feasibility, and validation.  Additional activities of Determine Viable Options &amp; Provide Recommendations are: defining product scope, defining high-level transition requirements, and recommending the most viable option.
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Org Goals &amp; Objectives        :** identify what the business is expecting the product to deliver.
-- **••**** Required Capabilities and Features:** identify the list of net changes the organization is looking to obtain in order to achieve the desired future state. Each option will address capabilities differently. Initially, discussions regarding product scope should be at a high level. As options are formulated and refined, some may be determined to be more valuable than others.
-- **••**** Situation Statement:** is an objective statement of a problem or opportunity that includes a situation&#39;s effect on an organization, and resulting impact.
+- ****** Org Goals &amp; Objectives        :** identify what the business is expecting the product to deliver.
+- **Required Capabilities and Features:** identify the list of net changes the organization is looking to obtain in order to achieve the desired future state. Each option will address capabilities differently. Initially, discussions regarding product scope should be at a high level. As options are formulated and refined, some may be determined to be more valuable than others.
+- **Situation Statement:** is an objective statement of a problem or opportunity that includes a situation&#39;s effect on an organization, and resulting impact.
 
 **Tools &amp; Techniques:**
 
-- **••**** Benchmarking**
-- **••**** Cost-Benefit Analysis**
-- **••**** Elicitation Techniques:** Section 6
-- **••**** Feature Injection:** is a set of principles used to deliver successful outcomes by improving and expediting how a product team develops product requirements. The three steps to a Feature Injection approach is to: determine the business value, inject features, and spot examples.
-- **••**** Group Decision-Making Techniques**
-- **••**** Real Options:** is a technique to help teams determine when to make decisions, not how or why. This technique can be used on projects that follow an adaptive delivery model. The objective is to approach decision making by reducing the number of decisions that need to be made in the short term, and to delay other decisions as late as possible to allow the product team more time to discover and improve its knowledge base.
+- **Benchmarking**
+- **Cost-Benefit Analysis**
+- **Elicitation Techniques:** Section 6
+- **Feature Injection:** is a set of principles used to deliver successful outcomes by improving and expediting how a product team develops product requirements. The three steps to a Feature Injection approach is to: determine the business value, inject features, and spot examples.
+- **Group Decision-Making Techniques**
+- ** Real Options:** is a technique to help teams determine when to make decisions, not how or why. This technique can be used on projects that follow an adaptive delivery model. The objective is to approach decision making by reducing the number of decisions that need to be made in the short term, and to delay other decisions as late as possible to allow the product team more time to discover and improve its knowledge base.
 
 **       **
 
 **Outputs:**
 
-- **••**** Feasibility Study Results:** are the summarized outcomes obtained from the completion of the feasibility analysis and are assembled in a package that is conducive to supporting executive review and decision making.
-- **••**** Recommended Solution Option:** is the solution choice determined to be the best course of action for addressing business needs.
+- **Feasibility Study Results:** are the summarized outcomes obtained from the completion of the feasibility analysis and are assembled in a package that is conducive to supporting executive review and decision making.
+- ** Recommended Solution Option:** is the solution choice determined to be the best course of action for addressing business needs.
 
 **Collaboration Point:** architects and designers are valuable contributors when determining the viability of a solution because they lend their expertise to assess technical constraints.
 
@@ -173,15 +173,15 @@ Involves conducting further elicitation to define changes to address what change
 
 **Inputs:**
 
-- **••**** Org Goals &amp; Objectives:** identify the deliverables for the project. Products are developed to solve a business need.
-- **••**** Required Capabilities and Features:** output of 4.3
+- **Org Goals &amp; Objectives:** identify the deliverables for the project. Products are developed to solve a business need.
+-  Required Capabilities and Features:** output of 4.3
 
 **Tools &amp; Techniques:**
 
-- **••**** Facilitated Workshops**
-- **••**** Feature Model:** is a scope model that visually represents all the features of a solution arranged in a tree or hierarchical structure.
-- **••**** Product Visioning:** used to set high-level direction for a product or product release.
-- **••**** Story Mapping:** used to sequence user stories that is based on business value and the order in which their users typically perform them so that teams can arrive at a shared understanding of what will be built.
+- **Facilitated Workshops**
+- **Feature Model:** is a scope model that visually represents all the features of a solution arranged in a tree or hierarchical structure.
+- **Product Visioning:** used to set high-level direction for a product or product release.
+- **Story Mapping:** used to sequence user stories that is based on business value and the order in which their users typically perform them so that teams can arrive at a shared understanding of what will be built.
 
 **       **
 
@@ -201,59 +201,55 @@ Involves conducting further elicitation to define changes to address what change
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Org Goals &amp; Objectives        :** Section 4.3
-- **••**** Feasibility Study Results:** Section 4.4
-- **••**** Product Roadmap:** Section 4.5
-- **••**** Recommended Solution Option:**  Section 4.4
-- **••**** Required Capabilities and Features:** 4.3
-- **••**** Situation Statement:** 4.1
+- **Org Goals &amp; Objectives        :** Section 4.3
+- **Feasibility Study Results:** Section 4.4
+- **Product Roadmap:** Section 4.5
+- **Recommended Solution Option:**  Section 4.4
+- **Required Capabilities and Features:** 4.3
+- **Situation Statement:** 4.1
 
 **Tools &amp; Techniques:**
 
-- **••**** Document Analysis:** is an elicitation technique used to analyze existing documentation and identify relevant product information. Section 6.3
-- **••**** Facilitated Workshops**
-- **••**** Glossary:**  provides a list of definitions for terms and acronyms about a product.
-- **••**** Product Visioning:** Section 4.5
-- **••**** Story Mapping**: is a technique used to sequence user stories, based upon business value and the order which their users typically perform them, so that teams can arrive at a shared understanding of what is being built. Stories written into a business case are typically written at a high level and may exist as epics (epics are later split into other epics or individual user stories).
+- **Document Analysis:** is an elicitation technique used to analyze existing documentation and identify relevant product information. Section 6.3
+- **Facilitated Workshops**
+- **Glossary:**  provides a list of definitions for terms and acronyms about a product.
+- **Product Visioning:** Section 4.5
+- **Story Mapping**: is a technique used to sequence user stories, based upon business value and the order which their users typically perform them, so that teams can arrive at a shared understanding of what is being built. Stories written into a business case are typically written at a high level and may exist as epics (epics are later split into other epics or individual user stories).
 
 **       **
 
 **Outputs:**
 
-- **••**** Business Case:** provides a documented economic feasibility study, establishing the validity of the benefits, in terms of value, to be delivered by a project or product. An approved business case is used an input when creating a charter to initiate a project. Business cases are assembled as one of the final process steps in needs assessment.
+- **Business Case:** provides a documented economic feasibility study, establishing the validity of the benefits, in terms of value, to be delivered by a project or product. An approved business case is used an input when creating a charter to initiate a project. Business cases are assembled as one of the final process steps in needs assessment.
 
 Note from Ben: as business cases are an input to a Project Charter to verify at a high level that a project/product will provide value and worth an investment, it may be redundant, or not necessary, to reassess those high level valuations for each product or application after elicitation and analyzation of business processes, unless it&#39;s necessary to confirm initial business case assumptions.
 
-- **••**** Product Scope:**  are the features and functions that characterize a solution and are based on viable options from the process of Determine Viable Options and Provide Recommendation. At this point, product scope is understood at a high level by the capabilities and features associated with the options chosen. Product scope continues to be refined as the product team furthers analysis. Throughout an initiative, product scope may be revised in response to changing business needs, risks, or constraints imposed by budget or schedule.
+- **Product Scope:**  are the features and functions that characterize a solution and are based on viable options from the process of Determine Viable Options and Provide Recommendation. At this point, product scope is understood at a high level by the capabilities and features associated with the options chosen. Product scope continues to be refined as the product team furthers analysis. Throughout an initiative, product scope may be revised in response to changing business needs, risks, or constraints imposed by budget or schedule.
 
 
 
-**4.7        SUPPORT CHARTER DEVELOPMENT       **
+**4.7        SUPPORT CHARTER DEVELOPMENT**
 
-**       **
+**Inputs:**
 
-**Talk to Keith about this on how this could be applicable to business analyst process.**
-
-**        Inputs:**
-
-- **••**** Business Case**
-- **••**** Product Scope**
+- **Business Case**
+- **Product Scope**
 
 **Tools &amp; Techniques:**
 
-- **••**** Document Analysis**
-- **••**** Facilitated Workshops**
-- **••**** Glossary**
-- **••**** Interviews**
+- **Document Analysis**
+- **Facilitated Workshops**
+- **Glossary**
+- **Interviews**
 
 **       **
 
 **Outputs:**
 
-- **••**** Charter**
-- **••**** Shared Product Information**
+- **Charter**
+- **Shared Product Information**
 
 
 
@@ -267,24 +263,24 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 
  Is the process of identifying the individuals, groups, or organizations that may impact, are impacted, or are perceived to be impacted by a decision, activity or outcome of a project or product. Product stakeholders take part in the discovery of requirements and contribute in elicitation by sharing information from which product requirements are eventually formed.
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Elicitation Results:** consist of the business analysis information obtained from competed elicitation activities. With continued collaboration with stakeholders, the elicitation results may aid in identifying additional stakeholders. Described in further detail in Section 6.3 &amp; 6.4
-- **••**** Situation Statement:** Section 4.2
+- **Elicitation Results:** consist of the business analysis information obtained from competed elicitation activities. With continued collaboration with stakeholders, the elicitation results may aid in identifying additional stakeholders. Described in further detail in Section 6.3 &amp; 6.4
+- **Situation Statement:** Section 4.2
 
 **Tools &amp; Techniques:**
 
-- **••**** Brainstorming:** used to identify a list of ideas within a short period of time. During future state analysis, the product team conducts conversations about potential capabilities that the organization might consider for addressing the situation.
-- **••**** Interviews:** is a formal or informal approach to elicit information from stakeholders. Covered in Section 6.3
-- **••**** Organizational Charts:** are models that depict the reporting structure within an organization. Organizational charts may be used as a starting point or, when one is not accessible or nonexistent, new ones can be made and utilized to identify product stakeholders.
-- **••**** Process Flows:** visually document the steps or tasks that people perform in their jobs or when they interact with a product. These models are typically well understood by business stakeholders.
-- **••**** Questionnaires &amp; Surveys:** Described in Section 6.3.9. They are written sets of questions designed to quickly accumulate information from a large number of respondents. Surveys can be used to collect information to establish or maintain a stakeholder list.
+- **Brainstorming:** used to identify a list of ideas within a short period of time. During future state analysis, the product team conducts conversations about potential capabilities that the organization might consider for addressing the situation.
+- **Interviews:** is a formal or informal approach to elicit information from stakeholders. Covered in Section 6.3
+- **Organizational Charts:** are models that depict the reporting structure within an organization. Organizational charts may be used as a starting point or, when one is not accessible or nonexistent, new ones can be made and utilized to identify product stakeholders.
+- **Process Flows:** visually document the steps or tasks that people perform in their jobs or when they interact with a product. These models are typically well understood by business stakeholders.
+- **Questionnaires &amp; Surveys:** Described in Section 6.3.9. They are written sets of questions designed to quickly accumulate information from a large number of respondents. Surveys can be used to collect information to establish or maintain a stakeholder list.
 
 **       **
 
 **Output:**
 
-- **••**** Stakeholder Register:** is a product/project document that includes the identification, assessment, and classification of stakeholders.
+- **Stakeholder Register:** is a product/project document that includes the identification, assessment, and classification of stakeholders.
 
 
 
@@ -296,18 +292,18 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 
  There are a few characteristics that may be analyzed during stakeholder analysis to develop clear insights about the identified stakeholders. The information from this analysis may help with decision making when establishing roles and responsibilities and determining how best to engage and collaborate with stakeholders. Some of these characteristics might include the following: attitude, experience, interests, level of influence.
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Elicitation Results:**  consist of the business analysis information obtained from competed elicitation activities. With continued collaboration with stakeholders, the elicitation results may aid in identifying additional stakeholders. Described in further detail in Sections 6.3 &amp; 6.4
-- **••**** Situation Statement:** Section 4.2
-- **••**** Stakeholder Register:** is a product document that includes the identification, assessment and classification of project/product stakeholders. The stakeholder register provides the most current list of stakeholders for performing stakeholder analysis.
+- **Elicitation Results:**  consist of the business analysis information obtained from competed elicitation activities. With continued collaboration with stakeholders, the elicitation results may aid in identifying additional stakeholders. Described in further detail in Sections 6.3 &amp; 6.4
+- **Situation Statement:** Section 4.2
+- **Stakeholder Register:** is a product document that includes the identification, assessment and classification of project/product stakeholders. The stakeholder register provides the most current list of stakeholders for performing stakeholder analysis.
 
 **Tools &amp; Techniques:**
 
-- **••**** Job Analysis:** is a technique used to identify the requirements and competencies to effectively perform a job or role. It can be used during business analysis to gain insights into stakeholder roles, which may be helpful when the product may revise a workflow or business process, or create new roles.
-- **••**** Persona Analysis:** is a fictional character created to represent an individual or group of stakeholders, termed a user class. A persona may include any number of descriptive features the team decides are worth capturing – for example, a name, narrative, goals, behaviors, motivations, hobbies, environment, demographics, and skills. The persona narrative tells a story about the user class. The objective is to draw out stakeholder requirements to determine how a user class interacts with a solution. This tool may be used in product development or IT systems to design or map out user experiences and workflows.
-- **••**** RACI Model:** is a type of responsibility assignment matrix that uses Responsible, Accountable, Consult, and Inform designations to define the involvement of stakeholders in activities. It can be used to communicate the roles and responsibilities of those involved in the business analysis effort. This tool may minimize confusion of roles, conflicts and areas where responsibilities overlap.
-- **••**** Stakeholder Maps:** are a collection of techniques used for analyzing how stakeholders relate to one another and to the solution under analysis.
+- **Job Analysis:** is a technique used to identify the requirements and competencies to effectively perform a job or role. It can be used during business analysis to gain insights into stakeholder roles, which may be helpful when the product may revise a workflow or business process, or create new roles.
+- **Persona Analysis:** is a fictional character created to represent an individual or group of stakeholders, termed a user class. A persona may include any number of descriptive features the team decides are worth capturing – for example, a name, narrative, goals, behaviors, motivations, hobbies, environment, demographics, and skills. The persona narrative tells a story about the user class. The objective is to draw out stakeholder requirements to determine how a user class interacts with a solution. This tool may be used in product development or IT systems to design or map out user experiences and workflows.
+- **RACI Model:** is a type of responsibility assignment matrix that uses Responsible, Accountable, Consult, and Inform designations to define the involvement of stakeholders in activities. It can be used to communicate the roles and responsibilities of those involved in the business analysis effort. This tool may minimize confusion of roles, conflicts and areas where responsibilities overlap.
+- **Stakeholder Maps:** are a collection of techniques used for analyzing how stakeholders relate to one another and to the solution under analysis.
 
 **       **
 
@@ -323,18 +319,18 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Situation Statement:** Section 4.2
-- **••**** Updated Stakeholder Register:** Section 5.2
+- **Situation Statement:** Section 4.2
+- **Updated Stakeholder Register:** Section 5.2
 
 **Tools &amp; Techniques:**
 
-- **••**** Elicitation Techniques:** as part of determining the stakeholder engagement and communication approach, it&#39;s important to work directly with the stakeholders to understand their mindset, needs, and what will work best for them to engage. Doing this helps develop and enhance good relationships with stakeholders. A few common techniques are brainstorming, facilitated workshops, and interviews.
-- **••**** Persona Analysis:** Section 5.2
-- **••**** RACI Model:** Section 5.2
-- **••**** Retrospectives &amp; Lessons Learned:** Use past experience to plan for future work. An optimal stakeholder engagement and communication approach may include lessons learned from past project, or approaches that have worked well for similar product developments.
-- **••**** Stakeholder Maps:** Section 5.2
+- **Elicitation Techniques:** as part of determining the stakeholder engagement and communication approach, it&#39;s important to work directly with the stakeholders to understand their mindset, needs, and what will work best for them to engage. Doing this helps develop and enhance good relationships with stakeholders. A few common techniques are brainstorming, facilitated workshops, and interviews.
+- **Persona Analysis:** Section 5.2
+- **RACI Model:** Section 5.2
+- **Retrospectives &amp; Lessons Learned:** Use past experience to plan for future work. An optimal stakeholder engagement and communication approach may include lessons learned from past project, or approaches that have worked well for similar product developments.
+- **Stakeholder Maps:** Section 5.2
 
 **       **
 
@@ -354,33 +350,33 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Business Analysis Performance Assessment:** summarizes what has been learned about the effectiveness of the business analysis processes and techniques used in past efforts. As part ofplanning for an upcoming effort, previous assessments may suggest ways to adapt the planning effort to optimize their value in working with stakeholders. Covered in more detail in 5.7
-- **••**** Charter:** described in 4.7. It formally authorizes a project, its boundaries, and creates a record for its initiation.
-- **••**** Planning Approaches from other Knowledge Areas:**
-  - **oo** Stakeholder engagement and communication approach (5.3)
-  - **oo** Elicitation approach (6.1)
-  - **oo** Traceability and monitoring approach (8.1)
-  - **oo** Solution evaluation approach (9.2)
-- **••**** Product Risk Analysis:** includes the consolidated results from identifying and analyzing product risks.
+- **Business Analysis Performance Assessment:** summarizes what has been learned about the effectiveness of the business analysis processes and techniques used in past efforts. As part ofplanning for an upcoming effort, previous assessments may suggest ways to adapt the planning effort to optimize their value in working with stakeholders. Covered in more detail in 5.7
+- **Charter:** described in 4.7. It formally authorizes a project, its boundaries, and creates a record for its initiation.
+- **Planning Approaches from other Knowledge Areas:**
+  - Stakeholder engagement and communication approach (5.3)
+  - Elicitation approach (6.1)
+  - Traceability and monitoring approach (8.1)
+  - Solution evaluation approach (9.2)
+- **Product Risk Analysis:** includes the consolidated results from identifying and analyzing product risks.
 
 **Tools &amp; Techniques:**
 
-- **••**** Burndown Charts:** is a graphical representation used to count the remaining quantity of trackable aspects of a project or product over time. Typically teams working in an adaptive life cycle use burndown charts to track the remaining product backlog items from iteration to iteration.
-- **••**** Decomposition Model:** is an analysis model used to break down information described at a high level into a hierarchy of smaller, more discrete parts.
-- **••**** Estimation Techniques:**
-  - **oo**** Affinity estimating**: a form of relative estimation, here team members organize product backlog items into groups where each backlog item is about the same size, or where team members use the notion of T-shirt sizes (small, medium, large, extra-large)
-  - **oo**** Bottom-up estimating:** a method of estimating duration or cost by aggregating the estimates of the lower level tasks.
-  - **oo**** Delphi:**  used to support gaining consensus through anonymous estimating and decision making.
-  - **oo**** Estimation poker:** a collaborative technique using relative estimation where there is an agreed-upon scale.
-  - **oo**** Relative estimation:** a technique for creating estimates that are derived from performing a comparison against historical data.
-  - **oo**** Wide-Band Delphi:** a variation of the Delphi technique where there is more communication and interpersonal collaboration to bring convergence to widely differing estimates.
-- **••**** Planning Techniques:** may include one or more of the following:
-  - **oo**** Product backlog:** a list of all product backlog items, typically user stories, requirements, or features, that need to be delivered for a solution. Individual items are estimated, prioritized in order, and committed by a team to deliver in an iteration.
-  - **oo**** Rolling wave planning:**  is an iterative planning technique where work to be accomplished in the near term is planned in detail, where work in the future is planned at a higher level. For planning within an adaptive life cycle, rolling wave planning can be used at the release level to determine those features and functions for the current or next release. Similarly, progressive elaboration or further analysis identifies the specific features and epics to be included in the current release.
-  - **oo**** Story mapping:** a technique used in planning for projects that use an adaptive life cycle. Story mapping is used to sequence user stories, based on business value and in the order users typically perform them, so that teams can arrive at a shared understanding of what will be built. From a business analysis perspective, story mapping can help suggest when more effort may need to be spent on analysis.
-  - **oo**** Work breakdown structure (WBS):** a technique used for predictive life cycles. It is a hierarchical decomposition of the total scope of work to be accomplished by a project team to create the required deliverables.
+- **Burndown Charts:** is a graphical representation used to count the remaining quantity of trackable aspects of a project or product over time. Typically teams working in an adaptive life cycle use burndown charts to track the remaining product backlog items from iteration to iteration.
+- **Decomposition Model:** is an analysis model used to break down information described at a high level into a hierarchy of smaller, more discrete parts.
+- **Estimation Techniques:**
+  -  Affinity estimating**: a form of relative estimation, here team members organize product backlog items into groups where each backlog item is about the same size, or where team members use the notion of T-shirt sizes (small, medium, large, extra-large)
+  -  Bottom-up estimating:** a method of estimating duration or cost by aggregating the estimates of the lower level tasks.
+  -  Delphi:**  used to support gaining consensus through anonymous estimating and decision making.
+  -  Estimation poker:** a collaborative technique using relative estimation where there is an agreed-upon scale.
+  -  Relative estimation:** a technique for creating estimates that are derived from performing a comparison against historical data.
+  -  Wide-Band Delphi:** a variation of the Delphi technique where there is more communication and interpersonal collaboration to bring convergence to widely differing estimates.
+- **Planning Techniques:** may include one or more of the following:
+  -  Product backlog:** a list of all product backlog items, typically user stories, requirements, or features, that need to be delivered for a solution. Individual items are estimated, prioritized in order, and committed by a team to deliver in an iteration.
+  -  Rolling wave planning:**  is an iterative planning technique where work to be accomplished in the near term is planned in detail, where work in the future is planned at a higher level. For planning within an adaptive life cycle, rolling wave planning can be used at the release level to determine those features and functions for the current or next release. Similarly, progressive elaboration or further analysis identifies the specific features and epics to be included in the current release.
+  -  Story mapping:** a technique used in planning for projects that use an adaptive life cycle. Story mapping is used to sequence user stories, based on business value and in the order users typically perform them, so that teams can arrive at a shared understanding of what will be built. From a business analysis perspective, story mapping can help suggest when more effort may need to be spent on analysis.
+  -  Work breakdown structure (WBS):** a technique used for predictive life cycles. It is a hierarchical decomposition of the total scope of work to be accomplished by a project team to create the required deliverables.
 
 **       **
 
@@ -398,32 +394,32 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 
  Success product releases depend on delivering the solution with tits expected capabilities and preparing the people who are going to use it. For some products, a successful release also depends upon having the operational environment set up or converted.
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Business Case:** section 4.6
-- **••**** Current State Assessment:** section 4.2
-- **••**** Product Risk Analysis:** includes the consolidated results from identifying and analyzing product risks. Described in Section 7.8
-- **••**** Product Scope:** is defined as the features and functions that characterize a solution. Understanding the product scope may be the basis for deciding how the transition should proceed and what special resources and coordination will be needed.
-- **••**** Requirements &amp; other product information:** transition requirements describe temporary capabilities, such as data conversion and training requirements.
-- **••**** Solution Design:** normally include specifications and diagrams of business procedures and process flows. Covered in Section 7.9.
-- **••**** Stakeholder Engagement &amp; Communication Approach:** identifies which stakeholders should be involved in preparing for the transition and how best to collaborate with them. Without the participation of key stakeholders in transition activities, transition work may be poorly executed.
+- **Business Case:** section 4.6
+- **Current State Assessment:** section 4.2
+- **Product Risk Analysis:** includes the consolidated results from identifying and analyzing product risks. Described in Section 7.8
+- **Product Scope:** is defined as the features and functions that characterize a solution. Understanding the product scope may be the basis for deciding how the transition should proceed and what special resources and coordination will be needed.
+- **Requirements &amp; other product information:** transition requirements describe temporary capabilities, such as data conversion and training requirements.
+- **Solution Design:** normally include specifications and diagrams of business procedures and process flows. Covered in Section 7.9.
+- **Stakeholder Engagement &amp; Communication Approach:** identifies which stakeholders should be involved in preparing for the transition and how best to collaborate with them. Without the participation of key stakeholders in transition activities, transition work may be poorly executed.
 
 **Tools &amp; Techniques:**
 
-- **••**** Elicitation Techniques:** section 6.3
-- **••**** Group Decision-Making Techniques:** section 8.3
-- **••**** Job Analysis:** section 5.2
-- **••**** Prioritization Schemes:** are different methods used to prioritize requirements, features, or any other product information. Section 7.2
-- **••**** Process Flows:** section 7.2
-- **••**** SWOT Analysis:** section 4.2
-- **••**** User Story:** section 7.3
+- **Elicitation Techniques:** section 6.3
+- **Group Decision-Making Techniques:** section 8.3
+- **Job Analysis:** section 5.2
+- **Prioritization Schemes:** are different methods used to prioritize requirements, features, or any other product information. Section 7.2
+- **Process Flows:** section 7.2
+- **SWOT Analysis:** section 4.2
+- **User Story:** section 7.3
 
 **       **
 
 **Outputs:**
 
-- **••**** Readiness Assessment:** determines the ability and interest of an organization to transition to the future state or to use its capabilities. The assessment is used to identify any gaps in readiness that are considered risks to achieving the end state, along with risk responses addressing them.
-- **••**** Transition Plan:**  is based on the readiness assessment as well as the transition strategy. A transition plan encompasses actionable and testable transition requirements.
+- **Readiness Assessment:** determines the ability and interest of an organization to transition to the future state or to use its capabilities. The assessment is used to identify any gaps in readiness that are considered risks to achieving the end state, along with risk responses addressing them.
+- **Transition Plan:**  is based on the readiness assessment as well as the transition strategy. A transition plan encompasses actionable and testable transition requirements.
 
 
 
@@ -433,14 +429,14 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Stakeholder Approach:** section 5.3. It describes how stakeholders will be engaged and when and what will be communicated with them.
-- **••**** Updated Stakeholder Register:** section 5.2. Includes the identification, assessment, and characterization of project or product stakeholders. The characterization of the stakeholders is a key factor for assessing whether or not to engage or communication with a particular stakeholder at any point in time.
+- **Stakeholder Approach:** section 5.3. It describes how stakeholders will be engaged and when and what will be communicated with them.
+- **Updated Stakeholder Register:** section 5.2. Includes the identification, assessment, and characterization of project or product stakeholders. The characterization of the stakeholders is a key factor for assessing whether or not to engage or communication with a particular stakeholder at any point in time.
 
 **Tools &amp; Techniques:**
 
-- **••**** Elicitation Techniques:** section 6.3.
+- **Elicitation Techniques:** section 6.3.
 
 **       **
 
@@ -454,20 +450,20 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 
 **       ** Is the process of considering the effectiveness of business analysis practices considering the ongoing deliverables and results of a project or products. Practices that are working well can be elevated to best practices and standards for use on future efforts. The key benefit of this process is that it provides the opportunity to adjust business analysis practices to meet the needs of a project, its team, and ultimately, the organization. This process is typically undertaken by organizations that continually strive to improve their practices and processes.
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Business Analysis Plan:** section 5.4. A business analysis plan can be compared to what was actually performed to obtain insights for planning better in the future.
-- **••**** Business Analysis Organizational Standards:** may include expectation for how business analysis will be conducted and what tools might be used to support business analysis efforts.
-- **••**** Business Analysis Performance Metrics:** are qualitative or quantitative measurements used to evaluate the effectiveness of business analysis practices. Some metrics may include: percentage of requirements defects, percentage of missed requirements, number of missed objectives, and slippage in delivery dates of business analysis deliverables. When looking at any of these metrics associated with performance, it is important to be cautious because these metrics rarely isolate poor business analysis practices as the sole cause of development problems.
+- **Business Analysis Plan:** section 5.4. A business analysis plan can be compared to what was actually performed to obtain insights for planning better in the future.
+- **Business Analysis Organizational Standards:** may include expectation for how business analysis will be conducted and what tools might be used to support business analysis efforts.
+- **Business Analysis Performance Metrics:** are qualitative or quantitative measurements used to evaluate the effectiveness of business analysis practices. Some metrics may include: percentage of requirements defects, percentage of missed requirements, number of missed objectives, and slippage in delivery dates of business analysis deliverables. When looking at any of these metrics associated with performance, it is important to be cautious because these metrics rarely isolate poor business analysis practices as the sole cause of development problems.
 
 **Tools &amp; Techniques:**
 
-- **••**** Burndown Charts:** section 5.2
-- **••**** Elicitation Techniques:** section 6.3
-- **••**** Process Flows:** section 7.2
-- **••**** Retrospectives &amp; Lessons Learned:**
-- **••**** Root Cause &amp; Opportunity Analysis:** section 4.2
-- **••**** Variance Analysis:** is a quantifiable deviation from a known baseline or expected value.
+- **Burndown Charts:** section 5.2
+- **Elicitation Techniques:** section 6.3
+- **Process Flows:** section 7.2
+- **Retrospectives &amp; Lessons Learned:**
+- **Root Cause &amp; Opportunity Analysis:** section 4.2
+- **Variance Analysis:** is a quantifiable deviation from a known baseline or expected value.
 
 **       **
 
@@ -494,9 +490,9 @@ Elicitation is highly cyclical and is repeated multiple times for each level of 
  The elicitation approach is used to formulate how to structure the elicitation activities and to think through how best to coordinate and conduct elicitation. Some elements in an elicitation approach include:
 
 -
-  - **oo** What information to elicit
-  - **oo** Where to find information
-  - **oo** How to obtain the information
+  - What information to elicit
+  - Where to find information
+  - How to obtain the information
 
 A well-though out approach to elicitation provides the following benefits:
 
@@ -506,19 +502,19 @@ A well-though out approach to elicitation provides the following benefits:
 - **••** Valuable results from each elicitation activity
 - **••** Better focus on the entire elicitation process
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Product Scope ****:** section 4.6. Is defined as the features and functions that characterize a solution. The product scope provides context and defines the boundaries to determine what information to elicit with the goal of further detailing the scope items. **       **
-- **••**** Situation Statement ****:**  section 4.1 **       **
-- **••**** Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section 5.3
-- **••**** Ap ****proach       **
-- **••**** Stakeholder Register ****:** section 5.2.
+- **Product Scope ****:** section 4.6. Is defined as the features and functions that characterize a solution. The product scope provides context and defines the boundaries to determine what information to elicit with the goal of further detailing the scope items. **       **
+- **Situation Statement ****:**  section 4.1 **       **
+- **Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section 5.3
+- **Ap ****proach       **
+- **Stakeholder Register ****:** section 5.2.
 
 **Tools &amp; Techniques:**
 
-- **••**** Brainstorming**
-- **••**** Interviews ****:** is performed by asking questions &amp; documenting responses. The business analyst may want to interview subject matter experts to discover other sources of information to elicit from, to obtain stakeholder preferences for the elicitation process, stakeholder experience, and comfort level with elicitation techniques used/considered.
-- **••**** Retrospectives &amp; Lessons Learned ****:** section 5.7.
+- **Brainstorming**
+- **Interviews ****:** is performed by asking questions &amp; documenting responses. The business analyst may want to interview subject matter experts to discover other sources of information to elicit from, to obtain stakeholder preferences for the elicitation process, stakeholder experience, and comfort level with elicitation techniques used/considered.
+- **Retrospectives &amp; Lessons Learned ****:** section 5.7.
 
 **       **
 
@@ -533,27 +529,27 @@ A well-though out approach to elicitation provides the following benefits:
  The following activities may be performed to prepare for an elicitation activity:
 
 -
-  - **oo** Determine the objective: set an objective for each elicitation activity
-  - **oo** Determine the participants
-  - **oo** Identify the resources
-  - **oo** Identify the questions for the elicitation activity
-  - **oo** Set the agenda
-  - **oo** Schedule the elicitation activity
+  - Determine the objective: set an objective for each elicitation activity
+  - Determine the participants
+  - Identify the resources
+  - Identify the questions for the elicitation activity
+  - Set the agenda
+  - Schedule the elicitation activity
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Elicitation Approach ****:** section 6.1. Explains how elicitation will be performed. **       **
-- **••**** Product Scope ****:** section 4.6 **       **
-- **••**** Require ****ments &amp; Other Product Information**** d Capabilities and Features ****:** section 7.3. It includes all the information about a solution and is the culmination of results from elicitation and analysis activities. **       **
-- **••**** Situation Statement ****:** section 4.1 **       **
-- **••**** Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section 5.3
+- **Elicitation Approach ****:** section 6.1. Explains how elicitation will be performed. **       **
+- **Product Scope ****:** section 4.6 **       **
+- **Require ****ments &amp; Other Product Information**** d Capabilities and Features ****:** section 7.3. It includes all the information about a solution and is the culmination of results from elicitation and analysis activities. **       **
+- **Situation Statement ****:** section 4.1 **       **
+- **Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section 5.3
 
 **Tools &amp; Techniques:**
 
-- **••**** Document Analysis ****:** is an elicitation used to analyze existing documentation to identify relevant product information. It can be used to obtain information that is readily available that may result in reducing the amount of elicitation time needed with stakeholders.
-- **••**** Interviews ****:** section 6.3
+- **Document Analysis ****:** is an elicitation used to analyze existing documentation to identify relevant product information. It can be used to obtain information that is readily available that may result in reducing the amount of elicitation time needed with stakeholders.
+- **Interviews ****:** section 6.3
 
 **       **
 
@@ -568,32 +564,32 @@ A well-though out approach to elicitation provides the following benefits:
  There are three stages during an elicitation activity that are applicable regardless of the elicitation technique used:
 
 -
-  - **oo** Introduction: sets the stage, place, and establishes the overall purpose for elicitation
-  - **oo** Body: where the question are asked and answers are given
-  - **oo** Close: a graceful termination to the particular activity
+  - Introduction: sets the stage, place, and establishes the overall purpose for elicitation
+  - Body: where the question are asked and answers are given
+  - Close: a graceful termination to the particular activity
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Elicitation Preparation Materials ****:** Section 6.2 **       **
-- **••**** Product Scope ****:**  section 4.6 **       **
-- **••**** Situation Statement ****:** section 4.1
+- **Elicitation Preparation Materials ****:** Section 6.2 **       **
+- **Product Scope ****:**  section 4.6 **       **
+- **Situation Statement ****:** section 4.1
 
 **Tools &amp; Techniques:**
 
-- **••**** Brainstorming ****:** Section 5.1
-- **••**** Collaborative Games ****:** are a collection of elicitation techniques that foster collaboration, innovation, and creativity to achieve the goal of the elicitation activity. Collaborative games are used to encourage team participation and enhance engagement. A few examples of collaborative games are:
-  - **oo** Product Box: game to focus on design of a product. Split participants into teams and see who designs the best box.
-  - **oo** Speedboat: This game focuses on aspects of a product that participants find problematic. Problems are represented as an anchor on a picture with multiple anchors attached to a boat. Team assess how much faster a boat will go if an anchor were removed.
-  - **oo** Spider Web: technique used to discover unknown relationships between the product being analyzed and other products. Used to compare different products where the ideal group is the user or customer.
-- **••**** Document Analysis ****:** is an elicitation technique used to analyze existing documentation to identify relevant product information. When using document analysis, it&#39;s important to recognize the accuracy and relevancy of the information being used. Current state documentation may represent business or technical constraints that no longer apply.
-- **••**** Facilitated Workshops ****:** structured meetings led by a skilled, neutral facilitator.
-- **••**** Focus Groups**
-- **••**** Interviews ****:**  is a formal or informal approach used to elicit information from stakeholders. It&#39;s performed by asking either prepared or spontaneous questions and documenting the responses.
-- **••**** Observation ****:** is an elicitation technique that provides a direct way of obtaining information about how a process is performed or a product is used by viewing individuals in their own environment. It is particularly helpful to observe detailed processes because stakeholders may have difficulty recalling specifics when discussing their work. Stakeholders may also be unaware of their actions or inactions and therefore may be unable to communicate them. Observation is usually performed when the observer is viewing the process worker perform the work, but it can also be performed with the observer performing the tasks firsthand. Main drawback is that people behave differently when they are being observed.
-- **••**** Prototyping ****:** is a method of obtaining early feedback on requirements by providing a model of the expected solution before building it. This provides an opportunity to validate a conceptual working solution against a set of requirements to look for potential gaps in requirements. Prototypes support the concept of progressive elaboration through iterative cycles of mockup creation, user experimentation, feedback generation, and prototype revision.
-- **••**** Questionnaires &amp; Surveys ****:** are written sets of questions designed to quickly accumulate information from a large number of respondents.
+- **Brainstorming ****:** Section 5.1
+- **Collaborative Games ****:** are a collection of elicitation techniques that foster collaboration, innovation, and creativity to achieve the goal of the elicitation activity. Collaborative games are used to encourage team participation and enhance engagement. A few examples of collaborative games are:
+  - Product Box: game to focus on design of a product. Split participants into teams and see who designs the best box.
+  - Speedboat: This game focuses on aspects of a product that participants find problematic. Problems are represented as an anchor on a picture with multiple anchors attached to a boat. Team assess how much faster a boat will go if an anchor were removed.
+  - Spider Web: technique used to discover unknown relationships between the product being analyzed and other products. Used to compare different products where the ideal group is the user or customer.
+- **Document Analysis ****:** is an elicitation technique used to analyze existing documentation to identify relevant product information. When using document analysis, it&#39;s important to recognize the accuracy and relevancy of the information being used. Current state documentation may represent business or technical constraints that no longer apply.
+- **Facilitated Workshops ****:** structured meetings led by a skilled, neutral facilitator.
+- **Focus Groups**
+- **Interviews ****:**  is a formal or informal approach used to elicit information from stakeholders. It&#39;s performed by asking either prepared or spontaneous questions and documenting the responses.
+- **Observation ****:** is an elicitation technique that provides a direct way of obtaining information about how a process is performed or a product is used by viewing individuals in their own environment. It is particularly helpful to observe detailed processes because stakeholders may have difficulty recalling specifics when discussing their work. Stakeholders may also be unaware of their actions or inactions and therefore may be unable to communicate them. Observation is usually performed when the observer is viewing the process worker perform the work, but it can also be performed with the observer performing the tasks firsthand. Main drawback is that people behave differently when they are being observed.
+- **Prototyping ****:** is a method of obtaining early feedback on requirements by providing a model of the expected solution before building it. This provides an opportunity to validate a conceptual working solution against a set of requirements to look for potential gaps in requirements. Prototypes support the concept of progressive elaboration through iterative cycles of mockup creation, user experimentation, feedback generation, and prototype revision.
+- **Questionnaires &amp; Surveys ****:** are written sets of questions designed to quickly accumulate information from a large number of respondents.
 
 **       **
 
@@ -610,36 +606,36 @@ A well-though out approach to elicitation provides the following benefits:
  During elicitation, information may be captured via multiple types of media, such as: whiteboards, flipcharts, meeting notes, and recording devices. Elicitation results may need to be:
 
 -
-  - **oo** Refined and/or corrected and extraneous information eliminated
-  - **oo** Organized, categorized, and consolidated
-  - **oo** Compared against previously elicited information
+  - Refined and/or corrected and extraneous information eliminated
+  - Organized, categorized, and consolidated
+  - Compared against previously elicited information
 
 -
-  - **oo** Converted to a level of formality based on stakeholder needs
-  - **oo** Packaged for distribution
+  - Converted to a level of formality based on stakeholder needs
+  - Packaged for distribution
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Elicitation Preparation Materials ****:** section 6.2 **       **
-- **••**** Unconfirmed Elicitation Results ****:** section 6.3 **       **
+- **Elicitation Preparation Materials ****:** section 6.2 **       **
+- **Unconfirmed Elicitation Results ****:** section 6.3 **       **
 
 **Tools &amp; Techniques:**
 
-- **••**** Document Analysis ****:** section 6.3
-- **••**** Glossary ****:**  ** ** is a list of definitions for terms and acronyms about a product. The glossary is used to provide the product team with a common understanding about the terms being used in conversations and throughout other business analysis outputs. In section 7.3
-- **••**** Interviews ****:** section 6.3
-- **••**** Observation ****:** section 6.3
-- **••**** Walkthroughs ****:** is a peer review in which the author of the materials walks the peer reviewers through the authored information. A walkthrough may be conducted to review the elicitation results for accuracy, or to clarify any discrepancies. In section 7.3
+- **Document Analysis ****:** section 6.3
+- **Glossary ****:**  ** ** is a list of definitions for terms and acronyms about a product. The glossary is used to provide the product team with a common understanding about the terms being used in conversations and throughout other business analysis outputs. In section 7.3
+- **Interviews ****:** section 6.3
+- **Observation ****:** section 6.3
+- **Walkthroughs ****:** is a peer review in which the author of the materials walks the peer reviewers through the authored information. A walkthrough may be conducted to review the elicitation results for accuracy, or to clarify any discrepancies. In section 7.3
 
 **       **
 
-**Output**** s ****:**
+**Outputs:**
 
 **•        Confirmed Elicitation Results**** :** consist of the business analysis information from completed elicitation activities. Confirmed elicitation results signify that the product team has reached a common understanding of the information elicited. Confirmed results may be obtained after a group of stakeholders reviews the materials provided upon completion of elicitation or they can be obtained concurrently as elicitation is performed.
 
-**7****         ANALYSIS**
+**7**** ANALYSIS**
 
   Is the process of examining, breaking down, synthesizing, and clarifying information to further understand, complete, and improve it. Analysis completes the set of product information by ensuring that it is correct and can be traced to goals.
 
@@ -653,18 +649,18 @@ A well-though out approach to elicitation provides the following benefits:
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Elicitation Approach ****:** section 6.1 **       **
-- **••**** Product Scope ****:** section 4.6 **       **
-- **••**** Situation Statement ****:** section 4.1 **       **
-- **••**** Traceability and Monitoring Approach ****:** defines the traceability and change management processes for the project or product. Covered in section 8.1.
+- **Elicitation Approach ****:** section 6.1 **       **
+- **Product Scope ****:** section 4.6 **       **
+- **Situation Statement ****:** section 4.1 **       **
+- **Traceability and Monitoring Approach ****:** defines the traceability and change management processes for the project or product. Covered in section 8.1.
 
 **Tools &amp; Techniques:**
 
-- **••**** Brainstorming ****:** section 5.1
-- **••**** Document Analysis ****:** section 6.3
-- **••**** Retrospectives &amp; Lessons Learned ****:** section 5.7
+- **Brainstorming ****:** section 5.1
+- **Document Analysis ****:** section 6.3
+- **Retrospectives &amp; Lessons Learned ****:** section 5.7
 
 **       **
 
@@ -682,51 +678,48 @@ A well-though out approach to elicitation provides the following benefits:
 
  Drafts of models are created based on the confirmed elicitation results. Those models might go back through elicitation sessions to identify new information to be refined and reanalyzed. This process is often performed concurrently with the processes of Verify and Validate Requirements (sections 7.5 &amp; 7.6).
 
-**       **
+No situation requires all types of models listed below to be used. Some models are more useful in certain situations than others. Business analysis involves choosing the models that are most useful given what is known about the situation. Models are organized into five categories:
 
-**       ** No situation requires all types of models listed below to be used. Some models are more useful in certain situations than others. Business analysis involves choosing the models that are most useful given what is known about the situation. Models are organized into five categories:
+  - Scope models (bounding the solution)
+  - Process models (how the solution will be used)
+  - Rule models (rules the solution needs to enforce)
+  - Data models (used in a process system and its life cycle)
+  - Interface models (how the solution interacts with other systems and users)
 
--
-  - **oo** Scope models (bounding the solution)
-  - **oo** Process models (how the solution will be used)
-  - **oo** Rule models (rules the solution needs to enforce)
-  - **oo** Data models (used in a process system and its life cycle)
-  - **oo** Interface models (how the solution interacts with other systems and users)
+**Inputs:**
 
-**        Inputs:**
-
-- **••**** Analysis Approach ****:** section 7.1 **       **
-- **••**** Confirmed Elicitation Results ****:** section 6.4 **       **
-- **••**** Require ****ments and Other Product Information**** d Capabilities and Features ****:** include all information about a solution and is the culmination of results from elicitation and analysis activities. Further described in section 7.3.
+- **Analysis Approach ****:** section 7.1 **       **
+- **Confirmed Elicitation Results ****:** section 6.4 **       **
+- **Require ****ments and Other Product Information**** d Capabilities and Features ****:** include all information about a solution and is the culmination of results from elicitation and analysis activities. Further described in section 7.3.
 
 **Tools &amp; Techniques:**
 
-- **••**** Context Diagram ****:** is a scope model that shows the direct system and human interfaces to systems within a solution. Generally, context diagrams are created early to identify interface and data requirements.
-- **••**** Data Dictionary ****:** is a model that lists data fields and their attributes and is usually created after other data models have been created.
-- **••**** Data Flow Diagram ****:**  is a model that is used to describe the movement of data between external entities, data stores, and processes.
-- **••**** Decision Tree and Decision Table ****:** are rule models that show a series of decision and the outcomes of those decisions. Decision trees visually show the flow of decisions and choices that lead to an outcome. Decision tables are useful for ensuring the business analyst has considered all possible combinations of decision scenarios and related outcomes. Decision trees are usually easier for stakeholders to review. Both models are useful as a foundation for test case creation with each combination of decisions and outcomes being a test case.
-- **••**** Ecosystem Map ****:** is a scope model that shows all the relevant systems, their relationships between systems, and any data objects to pass between them. Ecosystem maps are most useful when they are created at the beginning of projects to understand all the systems that may be affected by, or that will impact the in-scope systems.
-- **••**** Entity Relationship Diagram ****:** aka business data diagram. Is a data model that shows the business data objects or pieces of information of interest in a product and the primary relationships between those objects.
-- **••**** Event List ****:**  is a scope model that describes any external events that trigger solution behavior and help define the in-scope events that the solution has to react to or handle.
-- **••**** Feature Model ****:**  is a scope model that visually represents all the features of a solution arranged in a tree or hierarchical structure. Feature models are helpful to show how features are grouped together and which are sub-features of other ones.
-- **••**** Goal Model and Business Objectives Model ****:** are scope models that organize and reflect goals and business objectives in relation to other product information.
-- **••**** Modeling Elaboration ****:** is a technique that uses the collection of models together to further identify gaps, inconsistencies, or redundancies in product informant.
-  - **oo** Traceability matrix: a table that connects or traces links between items. Business analyst use traceability matrices to trace requirements backward to features and business objectives, or forwards to develop artifacts or test cases. ** **
-- **••**** Organizational **** C ****c**** hart ****:** is a cope model that shows the reporting structure within an organization. They are used to identify who might be impacted by a solution and help when looking to identify user groups that have security and permission requirements.
-- **••**** Process Flows ****:** are used to visually document the steps or tasks that people perform in their jobs or interact with a solution. Process flows might be created as both as-is and to-be representations of the business processes so that changes to current solutions can be shown visually.
-  - **oo** Value stream maps: shows any delays, queues, or handoffs and is used to identify any time spent that does not add value.
-  - **oo** Activity diagrams: generally used to show complex flow of use cases. They are similar to process flows in syntax, but show user and system interactions in one diagram and mirror the textual description of use cases.
+- **Context Diagram ****:** is a scope model that shows the direct system and human interfaces to systems within a solution. Generally, context diagrams are created early to identify interface and data requirements.
+- **Data Dictionary ****:** is a model that lists data fields and their attributes and is usually created after other data models have been created.
+- **Data Flow Diagram ****:**  is a model that is used to describe the movement of data between external entities, data stores, and processes.
+- **Decision Tree and Decision Table ****:** are rule models that show a series of decision and the outcomes of those decisions. Decision trees visually show the flow of decisions and choices that lead to an outcome. Decision tables are useful for ensuring the business analyst has considered all possible combinations of decision scenarios and related outcomes. Decision trees are usually easier for stakeholders to review. Both models are useful as a foundation for test case creation with each combination of decisions and outcomes being a test case.
+- **Ecosystem Map ****:** is a scope model that shows all the relevant systems, their relationships between systems, and any data objects to pass between them. Ecosystem maps are most useful when they are created at the beginning of projects to understand all the systems that may be affected by, or that will impact the in-scope systems.
+- **Entity Relationship Diagram ****:** aka business data diagram. Is a data model that shows the business data objects or pieces of information of interest in a product and the primary relationships between those objects.
+- **Event List ****:**  is a scope model that describes any external events that trigger solution behavior and help define the in-scope events that the solution has to react to or handle.
+- **Feature Model ****:**  is a scope model that visually represents all the features of a solution arranged in a tree or hierarchical structure. Feature models are helpful to show how features are grouped together and which are sub-features of other ones.
+- **Goal Model and Business Objectives Model ****:** are scope models that organize and reflect goals and business objectives in relation to other product information.
+- **Modeling Elaboration ****:** is a technique that uses the collection of models together to further identify gaps, inconsistencies, or redundancies in product informant.
+  - Traceability matrix: a table that connects or traces links between items. Business analyst use traceability matrices to trace requirements backward to features and business objectives, or forwards to develop artifacts or test cases. ** **
+- **Organizational **** C ****c**** hart ****:** is a cope model that shows the reporting structure within an organization. They are used to identify who might be impacted by a solution and help when looking to identify user groups that have security and permission requirements.
+- **Process Flows ****:** are used to visually document the steps or tasks that people perform in their jobs or interact with a solution. Process flows might be created as both as-is and to-be representations of the business processes so that changes to current solutions can be shown visually.
+  - Value stream maps: shows any delays, queues, or handoffs and is used to identify any time spent that does not add value.
+  - Activity diagrams: generally used to show complex flow of use cases. They are similar to process flows in syntax, but show user and system interactions in one diagram and mirror the textual description of use cases.
 
-- **••**** Prototypes, Wireframes, and Display-Action-Response- Models ****:** are all interface models.
-  - **oo** Prototypes: is a representation of the expected solution before it&#39;s built. Prototypes can be low fidelity, such as a sketch of a screen layout, or high fidelity, such as an interactive user interface.
-  - **oo** Wireframe: is a type of prototype, specifically a mockup of a user interface design and used to show what a screen should look like.
-  - **oo** Display-action-response: is always used in conjunction with a prototype or wireframe to connect the user interface element requirements to a visual representation.
-- **••**** Report Table ****:** is an interface model that describes detailed requirements for a single report. It typically accompanies a prototype of a report to show implementation teams what the report should look like.
-- **••**** State Table and State Diagram ****:** are both models that show the valid states of an object and any allowed transitions between those states and describe all states within a solution that a single object can hold. These allow a business analyst to consider each potential state transition to determine if the transition should be allowed.
-- **••**** Story Mapping ****:** is a technique used to sequence user stories, based on their business value and the order in which their users typically perform them, so that teams can understand what will be built. Story maps help break capabilities down into user stories and can be used to identify gaps in capabilities. Story maps include two foundational parts: the backbone and the walking skeleton. The backbone is the minimum set of capabilities that absolutely have to be in the first release of the solution to serve its purpose and is known as the minimum viable product (MVP). The walking skeleton is the full set of end-to-end functionality that the stakeholders require for the solution to be accepted or considered functional. ** **
-- **••**** System Interface Table ****:** is a model that captures all the detailed level requirements for a single system interface and include information such as data fields passed from one system to another, the frequency and volume of the data passed, and validation rules.
-- **••**** Use Case Diagram ****:** is a scope model that shows all the in-scope use cases for a solution and involves listing users and possible scenarios of how each user will use the solution.
-- **••**** User Interface Flow ****:** is an interface model that displays specific user interfaces and commonly used screens within a functional design and plots out how to navigate between them. These are typically created after process flows and use cases to ensure that navigation in the system is logical and correct.
+- **Prototypes, Wireframes, and Display-Action-Response- Models ****:** are all interface models.
+  - Prototypes: is a representation of the expected solution before it&#39;s built. Prototypes can be low fidelity, such as a sketch of a screen layout, or high fidelity, such as an interactive user interface.
+  - Wireframe: is a type of prototype, specifically a mockup of a user interface design and used to show what a screen should look like.
+  - Display-action-response: is always used in conjunction with a prototype or wireframe to connect the user interface element requirements to a visual representation.
+- **Report Table ****:** is an interface model that describes detailed requirements for a single report. It typically accompanies a prototype of a report to show implementation teams what the report should look like.
+- **State Table and State Diagram ****:** are both models that show the valid states of an object and any allowed transitions between those states and describe all states within a solution that a single object can hold. These allow a business analyst to consider each potential state transition to determine if the transition should be allowed.
+- **Story Mapping ****:** is a technique used to sequence user stories, based on their business value and the order in which their users typically perform them, so that teams can understand what will be built. Story maps help break capabilities down into user stories and can be used to identify gaps in capabilities. Story maps include two foundational parts: the backbone and the walking skeleton. The backbone is the minimum set of capabilities that absolutely have to be in the first release of the solution to serve its purpose and is known as the minimum viable product (MVP). The walking skeleton is the full set of end-to-end functionality that the stakeholders require for the solution to be accepted or considered functional. ** **
+- **System Interface Table ****:** is a model that captures all the detailed level requirements for a single system interface and include information such as data fields passed from one system to another, the frequency and volume of the data passed, and validation rules.
+- **Use Case Diagram ****:** is a scope model that shows all the in-scope use cases for a solution and involves listing users and possible scenarios of how each user will use the solution.
+- **User Interface Flow ****:** is an interface model that displays specific user interfaces and commonly used screens within a functional design and plots out how to navigate between them. These are typically created after process flows and use cases to ensure that navigation in the system is logical and correct.
 
 **       **
 
@@ -748,25 +741,25 @@ A well-though out approach to elicitation provides the following benefits:
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Analysis Approach ****:** defines how analysis will be performed for the project or products and is a decision about the types of requirements to be elaborated and how they will be stored. Section 7.1 **       **
-- **••**** Analysis Models ****:** section 7.2 **       **
-- **••**** Confirmed Elicitation Results ****:** section 6.3 **       **
-- **••**** Relationships and Dependencies ****:** define the links between requirements. Covered in more detail in section 8.2. **       **
-- **••**** Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section 5.3
+- **Analysis Approach ****:** defines how analysis will be performed for the project or products and is a decision about the types of requirements to be elaborated and how they will be stored. Section 7.1 **       **
+- **Analysis Models ****:** section 7.2 **       **
+- **Confirmed Elicitation Results ****:** section 6.3 **       **
+- **Relationships and Dependencies ****:** define the links between requirements. Covered in more detail in section 8.2. **       **
+- **Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section 5.3
 
 **Tools &amp; Techniques:**
 
-- **••**** Business Rules Catalog ****:** is a type of rule model that is a table listing business rules and attributes that describe how to constrain or support behaviors within the operation of a business. These business rules will be implemented or enforced by the solution/product.
-- **••**** Definition of Ready ****:** is a series of conditions that the entire team agrees to complete before a user story is considered sufficiently understood so that work can begin to construct it. Definition of ready helps the project team know that the user story is ready to be brought into an iteration (sprint). Covered in section 7.4.
-- **••**** Glossary ****:** is a list of all definitions for terms and acronyms about a product.
-- **••**** Product Backlog ****:** is the list of all items, typically user stories, that need to be delivered for a solution that describe the functionality that the business wants to see in a product. The items can be requirements for the solution to be built, as well as any issues or defects that have to be resolved from previous iterations. As new backlog items are added, the product backlog should be repeatedly refined. Backlog management is covered in section 7.7.
-- **••**** Requirements Management Tool ****:** allows requirements and other product information to be captured and stored in a repository.
-- **••**** Story Elaboration ****:** is the process by which user stories are further detailed with additional information until they are ready for development. Story elaboration is known as backlog refinement. Section 7.4
-- **••**** Story Slicing ****:** is a technique used to split epics or user stories from a higher level to a lower level.
-- **••**** Use Case ****:** is a process model that uses textual narratives to describe the system-user interactions to achieve successful completion of a goal. This model is frequently used to identify and elaborate requirements.
-- **••**** User Story ****:** is a method to document stakeholder requirements from the user&#39;s point of view with a focus on the value or benefit achieved by the user with the completion of that story. User stories help bridge business requirements to solution requirements.
+- **Business Rules Catalog ****:** is a type of rule model that is a table listing business rules and attributes that describe how to constrain or support behaviors within the operation of a business. These business rules will be implemented or enforced by the solution/product.
+- **Definition of Ready ****:** is a series of conditions that the entire team agrees to complete before a user story is considered sufficiently understood so that work can begin to construct it. Definition of ready helps the project team know that the user story is ready to be brought into an iteration (sprint). Covered in section 7.4.
+- **Glossary ****:** is a list of all definitions for terms and acronyms about a product.
+- **Product Backlog ****:** is the list of all items, typically user stories, that need to be delivered for a solution that describe the functionality that the business wants to see in a product. The items can be requirements for the solution to be built, as well as any issues or defects that have to be resolved from previous iterations. As new backlog items are added, the product backlog should be repeatedly refined. Backlog management is covered in section 7.7.
+- **Requirements Management Tool ****:** allows requirements and other product information to be captured and stored in a repository.
+- **Story Elaboration ****:** is the process by which user stories are further detailed with additional information until they are ready for development. Story elaboration is known as backlog refinement. Section 7.4
+- **Story Slicing ****:** is a technique used to split epics or user stories from a higher level to a lower level.
+- **Use Case ****:** is a process model that uses textual narratives to describe the system-user interactions to achieve successful completion of a goal. This model is frequently used to identify and elaborate requirements.
+- **User Story ****:** is a method to document stakeholder requirements from the user&#39;s point of view with a focus on the value or benefit achieved by the user with the completion of that story. User stories help bridge business requirements to solution requirements.
 
 **       **
 
@@ -786,18 +779,18 @@ A well-though out approach to elicitation provides the following benefits:
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Analysis Approach ****:** section 7.1 **       **
-- **••**** Analysis Models ****:** section 7.2 **       **
-- **••**** Require ****ments &amp; Other Product Information:** section 7.3 **d Capabilities and Features       **
-- **••**** Solution Evaluation Approach ****:** defines what types of metrics will be used to measure the performance of a solution. Covered in section 9.2.
+- **Analysis Approach ****:** section 7.1 **       **
+- **Analysis Models ****:** section 7.2 **       **
+- **Require ****ments &amp; Other Product Information:** section 7.3 **d Capabilities and Features       **
+- **Solution Evaluation Approach ****:** defines what types of metrics will be used to measure the performance of a solution. Covered in section 9.2.
 
 **Tools &amp; Techniques:**
 
-- **••**** Behavior-Driven Development ****:** is an approach that suggests that the team should begin with the understanding how the user will use a product, write tests for the behavior, and then construct solutions against the tests. It encourages conversation between the user or customer who needs to be satisfied with the solution and those who are implementing the solution. This approach is a continuation of test-driven development. Behavior-driven development approach includes a commonly accepted syntax to write acceptance criteria for user stories.
-- **••**** Definition of Done ****:** is a series of conditions that the entire team agrees to complete before an item is considered sufficiently developed to be accepted by the business stakeholders. It helps a project team know that the work is complete so the team can move on to the next user story or iteration (sprint). They are often defined at the user story level, iteration level, release level, and product level.
-- **••**** Story Elaboration ****:** is the process by which user stories are supplemented with additional information from conversations with business stakeholders, until they are sufficiently detailed for product development to begin work. In adaptive approaches, user stories are commonly written at a higher level of detail than functional and nonfunctional requirements, so story elaboration is the technique used to add the extra details for each story so that development teams have enough detail and information to build the solution.
+- **Behavior-Driven Development ****:** is an approach that suggests that the team should begin with the understanding how the user will use a product, write tests for the behavior, and then construct solutions against the tests. It encourages conversation between the user or customer who needs to be satisfied with the solution and those who are implementing the solution. This approach is a continuation of test-driven development. Behavior-driven development approach includes a commonly accepted syntax to write acceptance criteria for user stories.
+- **Definition of Done ****:** is a series of conditions that the entire team agrees to complete before an item is considered sufficiently developed to be accepted by the business stakeholders. It helps a project team know that the work is complete so the team can move on to the next user story or iteration (sprint). They are often defined at the user story level, iteration level, release level, and product level.
+- **Story Elaboration ****:** is the process by which user stories are supplemented with additional information from conversations with business stakeholders, until they are sufficiently detailed for product development to begin work. In adaptive approaches, user stories are commonly written at a higher level of detail than functional and nonfunctional requirements, so story elaboration is the technique used to add the extra details for each story so that development teams have enough detail and information to build the solution.
 
 **       **
 
@@ -817,23 +810,23 @@ A well-though out approach to elicitation provides the following benefits:
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Analysis Approach ****:** section 7.1 **       **
-- **••**** Business Analysis **** Org ****Organizational**  **Standards**** : **describe any expected quality, formatting rules, syntax rules, and requirements structure imposed by the organization. These standards define what a good requirement set is and may be based on industry standards.**        **
-- **••**** Compliance **** or Regulator ****y**  **Standards**** : ****        ** are imposed by external organizations, commonly for reasons related to security, protecting personal information, legal considerations, or safety reasons. Most often they are government or industry regulations.
-- **••**** Requir ****ements &amp; Other Product Information:** section 7.3 **ed Capabilities and Features**
+- **Analysis Approach ****:** section 7.1 **       **
+- **Business Analysis **** Org ****Organizational**  **Standards**** : **describe any expected quality, formatting rules, syntax rules, and requirements structure imposed by the organization. These standards define what a good requirement set is and may be based on industry standards.****
+- **Compliance **** or Regulator ****y**  **Standards**** : ****** are imposed by external organizations, commonly for reasons related to security, protecting personal information, legal considerations, or safety reasons. Most often they are government or industry regulations.
+- **Requir ****ements &amp; Other Product Information:** section 7.3 **ed Capabilities and Features**
 
 **Tools &amp; Techniques:**
 
-- **••**** INVEST ****:** describes the characteristics that user stories need to demonstrate to be considered &quot;good&quot; and &quot;ready&quot; for development. INVEST stands for:
-  - **oo** Independent – the characteristic that breaks as many dependencies between user stories as possible so that it can be built by itself.
-  - **oo** Negotiable – ensures that too much information is not captured up from, because all user stories and detail surrounding them should be negotiable between the development team and business stakeholders until enough information is known and accepted for development.
-  - **oo** Valuable – where each story has value to the business or customer and the backlog is ranked based on that value.
-  - **oo** Estimable (or estimate-able) – ensures that user stories have enough detail for the development team to provide a rough estimate of size. If the development team cannot size the story, there is not enough detail.
-  - **oo** Small – means that the story is small enough for the development team to complete within a single time-boxed iteration.
-  - **oo** Testable – determines whether a story can be finitely tested by a test team and the customer understands how to accept the requirement as done. Usually written as acceptance criteria.
-- **••**** Peer Reviews ****:** involve one or more coworkers reviewing the work completed by the business analyst. Commonly, the peer who performs the review is another business analyst, team lead, or quality control team member. Reviewers focus on the logic and readability of the requirements and looking for consistency with in the requirements for avoid contradictions. Often, business analysts will have an informal peer review meeting before reviewing requirements with stakeholders to ensure that issues are resolved.
+- **INVEST ****:** describes the characteristics that user stories need to demonstrate to be considered &quot;good&quot; and &quot;ready&quot; for development. INVEST stands for:
+  - Independent – the characteristic that breaks as many dependencies between user stories as possible so that it can be built by itself.
+  - Negotiable – ensures that too much information is not captured up from, because all user stories and detail surrounding them should be negotiable between the development team and business stakeholders until enough information is known and accepted for development.
+  - Valuable – where each story has value to the business or customer and the backlog is ranked based on that value.
+  - Estimable (or estimate-able) – ensures that user stories have enough detail for the development team to provide a rough estimate of size. If the development team cannot size the story, there is not enough detail.
+  - Small – means that the story is small enough for the development team to complete within a single time-boxed iteration.
+  - Testable – determines whether a story can be finitely tested by a test team and the customer understands how to accept the requirement as done. Usually written as acceptance criteria.
+- **Peer Reviews ****:** involve one or more coworkers reviewing the work completed by the business analyst. Commonly, the peer who performs the review is another business analyst, team lead, or quality control team member. Reviewers focus on the logic and readability of the requirements and looking for consistency with in the requirements for avoid contradictions. Often, business analysts will have an informal peer review meeting before reviewing requirements with stakeholders to ensure that issues are resolved.
 
 **       **
 
@@ -849,20 +842,20 @@ A well-though out approach to elicitation provides the following benefits:
 
  The main goal of validating the product information is to come to a common understanding with the business stakeholders that the solution will address and support the business goals and objectives. Most validation requires participation from stakeholders.
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Acceptance Criteria ****:** section 7.4 **       **
-- **••**** Analysis Approach ****:** section 7.1 **       **
-- **••**** Business Goals &amp; Objectives ****:** section 4.3 **       **
-- **••**** Require ****ments &amp; Other Product Information**** d Capabilities and Features ****:** section 7.3
+- **Acceptance Criteria ****:** section 7.4 **       **
+- **Analysis Approach ****:** section 7.1 **       **
+- **Business Goals &amp; Objectives ****:** section 4.3 **       **
+- **Require ****ments &amp; Other Product Information**** d Capabilities and Features ****:** section 7.3
 
 **Tools &amp; Techniques:**
 
-- **••**** Delphi ****:** a consensus building method that consolidates anonymous input from subject matte experts. Covered in more detail in section 8.3
-- **••**** Goal Model &amp; Business Objectives **** Model:** section 7.2
-- **••**** Model**
-- **••**** Traceability Matrix ****:** is a grid that allows linkages between objects. It can be used to trace requirements to analysis models or downstream items such as test cases. This analysis ensures that each requirement traces directly back to support a business requirement. More information in section 8.2.
-- **••**** Walkthroughs ****:** are used to review the requirements with the stakeholders and to receive confirmation that the requirements as stated are valid. Walkthroughs entail holding a meeting to review the requirements as a group to ensure there is a common understanding of the requirements or user stories (BB note: OTS refers to this tool as a meeting called Backlog Refinement).
+- **Delphi ****:** a consensus building method that consolidates anonymous input from subject matte experts. Covered in more detail in section 8.3
+- **Goal Model &amp; Business Objectives **** Model:** section 7.2
+- **Model**
+- **Traceability Matrix ****:** is a grid that allows linkages between objects. It can be used to trace requirements to analysis models or downstream items such as test cases. This analysis ensures that each requirement traces directly back to support a business requirement. More information in section 8.2.
+- **Walkthroughs ****:** are used to review the requirements with the stakeholders and to receive confirmation that the requirements as stated are valid. Walkthroughs entail holding a meeting to review the requirements as a group to ensure there is a common understanding of the requirements or user stories (BB note: OTS refers to this tool as a meeting called Backlog Refinement).
 
 **       **
 
@@ -882,34 +875,34 @@ A well-though out approach to elicitation provides the following benefits:
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Analysis Approach ****:** section 7.1 **       **
-- **••**** Business Goals &amp; Objectives ****:** section 4.3 **       **
-- **••**** Change Requests ****:** are appeals to make a change to a requirement or product information that are raised by business stakeholders or project team after a set of requirements have been baselined. Stakeholder requests may be written as a user story and reprioritization occurs during the planning session for the next iteration. Covered in section 8.4 **       **
-- **••**** Relationships and Dependencies ****:** define the links between requirements. Section 8.2. **       **
-- **••**** Require ****ments and other Product Information**** :** section 7.3.
+- **Analysis Approach ****:** section 7.1 **       **
+- **Business Goals &amp; Objectives ****:** section 4.3 **       **
+- **Change Requests ****:** are appeals to make a change to a requirement or product information that are raised by business stakeholders or project team after a set of requirements have been baselined. Stakeholder requests may be written as a user story and reprioritization occurs during the planning session for the next iteration. Covered in section 8.4 **       **
+- **Relationships and Dependencies ****:** define the links between requirements. Section 8.2. **       **
+- **Require ****ments and other Product Information**** :** section 7.3.
 
 **d**  **Capabilities and Features**
 
 **Tools &amp; Techniques:**
 
-- **••**** Backlog Management ****:** the product backlog needs to be organized by priority at all times. The list is ranked in order of business value or importance. Section 7.3.
-- **••**** Goal Model &amp; Business Objectives **** Model:** section 7.2.
-- **••**** Iteration Planning ****:** or sprint planning is the activity used to identify the subset of product backlog items that the product development team will work on for the current iteration or sprint. The entire team selects the backlog items that should be part of an iteration or sprint. Business analysis activities ensures the backlog items are ready to be developed.
-- **••**** Kanban Board ****:** is used in adaptive approaches to track work that is in progress by the project team. It is a visual representation of what work is in progress and workflows, such as project/product lifecycle phases.
-- **••**** Prioritization Schemes ****:** are different methods used to prioritize product requirements and other product information. A few commonly used schemes are:
-  - **oo** Buy a feature – a game used to enable a group of stakeholders to agree on prioritization by providing each stakeholder with pretend money to buy their choice of features.
-  - **oo** Delphi-  section 8.3
-  - **oo** Minimum Viable Product – a prioritization mechanism used to define the scope of the first release of a solution by identifying the fewest number of features that would constitute a solution and brings the most quantifiable value to the business. The point of utilizing this technique is to realize business value faster than waiting for a full product to be built.
-  - **oo** MoSCoW– a technique that categorized each requirement into one of the following: must have, should have, could have, and won&#39;t have.
-  - **oo** Multivoting – a method also called dot voting because it can be performed by providing stakeholder with a prescribed number of dots and allowing them to vote by placing their dots on the requirements that they feel are the most important.
-  - **oo** Purpose alignment model – provides a framework for categorizing business options by their purpose.
-  - **oo** Timeboxing – an estimation or planning technique that can be used during prioritization by setting a strict time limit and prioritizing only the work that the team can complete in that duration of time.
-  - **oo** Weighted ranking – a method that first requires decision criteria to be identified and weighted. Section 4.4.
-  - **oo** Weighted shortest job first – a method used to rank stories based on more dimensions than business value and effort. It works by having team vote by using numbers similar to a Fibonacci sequence used in estimation poker. It&#39;s formulated as: WSJF = [business value + time criticality + (risk reduction/opportunity enablement)] / effort.
-- **••**** Story Mapping ****:** section 7.2.
-- **••**** Traceability Matrix ****:** a table that connects or traces links between items. Business analyst use traceability matrices to trace requirements backward to features and business objectives, or forwards to develop artifacts or test cases. Section 8.2.
+- **Backlog Management ****:** the product backlog needs to be organized by priority at all times. The list is ranked in order of business value or importance. Section 7.3.
+- **Goal Model &amp; Business Objectives **** Model:** section 7.2.
+- **Iteration Planning ****:** or sprint planning is the activity used to identify the subset of product backlog items that the product development team will work on for the current iteration or sprint. The entire team selects the backlog items that should be part of an iteration or sprint. Business analysis activities ensures the backlog items are ready to be developed.
+- **Kanban Board ****:** is used in adaptive approaches to track work that is in progress by the project team. It is a visual representation of what work is in progress and workflows, such as project/product lifecycle phases.
+- **Prioritization Schemes ****:** are different methods used to prioritize product requirements and other product information. A few commonly used schemes are:
+  - Buy a feature – a game used to enable a group of stakeholders to agree on prioritization by providing each stakeholder with pretend money to buy their choice of features.
+  - Delphi-  section 8.3
+  - Minimum Viable Product – a prioritization mechanism used to define the scope of the first release of a solution by identifying the fewest number of features that would constitute a solution and brings the most quantifiable value to the business. The point of utilizing this technique is to realize business value faster than waiting for a full product to be built.
+  - MoSCoW– a technique that categorized each requirement into one of the following: must have, should have, could have, and won&#39;t have.
+  - Multivoting – a method also called dot voting because it can be performed by providing stakeholder with a prescribed number of dots and allowing them to vote by placing their dots on the requirements that they feel are the most important.
+  - Purpose alignment model – provides a framework for categorizing business options by their purpose.
+  - Timeboxing – an estimation or planning technique that can be used during prioritization by setting a strict time limit and prioritizing only the work that the team can complete in that duration of time.
+  - Weighted ranking – a method that first requires decision criteria to be identified and weighted. Section 4.4.
+  - Weighted shortest job first – a method used to rank stories based on more dimensions than business value and effort. It works by having team vote by using numbers similar to a Fibonacci sequence used in estimation poker. It&#39;s formulated as: WSJF = [business value + time criticality + (risk reduction/opportunity enablement)] / effort.
+- **Story Mapping ****:** section 7.2.
+- **Traceability Matrix ****:** a table that connects or traces links between items. Business analyst use traceability matrices to trace requirements backward to features and business objectives, or forwards to develop artifacts or test cases. Section 8.2.
 
 **       **
 
@@ -924,45 +917,45 @@ A well-though out approach to elicitation provides the following benefits:
  Identifying and analyzing product risks includes the following activities:
 
 -
-  - **oo** Identifying product risks – documenting their characteristics, which may affect business analysis activities and/or the product.
-  - **oo** Performing qualitative risk analysis – prioritizing product risks for further analysis and assessing their probability of occurrence and impact
-  - **oo** Performing quantitative risk analysis – numerically analyzing the effect of identified product risks
-  - **oo** Planning risk responses – developing options and actions to address product risks. Responses may include modifying or identifying additional product requirements to take advantage of opportunities or address potential failure points. Product risk management leads to identifying and proactively resolving gaps in requirements and product information.
+  - Identifying product risks – documenting their characteristics, which may affect business analysis activities and/or the product.
+  - Performing qualitative risk analysis – prioritizing product risks for further analysis and assessing their probability of occurrence and impact
+  - Performing quantitative risk analysis – numerically analyzing the effect of identified product risks
+  - Planning risk responses – developing options and actions to address product risks. Responses may include modifying or identifying additional product requirements to take advantage of opportunities or address potential failure points. Product risk management leads to identifying and proactively resolving gaps in requirements and product information.
     - **--** Strategies for negative risks or threats include: avoid, transfer, mitigate, and accept
     - **--** Strategies for positive risks or opportunities include: exploit, enhance, share, and accept
-  - **oo** Implementing risk responses
-  - **oo** Monitoring risks – monitoring the implementation of agreed upon risk responses.
+  - Implementing risk responses
+  - Monitoring risks – monitoring the implementation of agreed upon risk responses.
 
 When identifying and analyzing product risks, consideration is provided to any applicable assumptions, constraints, dependencies, or issues.
 
 -
-  - **oo** Assumptions – factors that are considered true, real, or certain without actual proof.
-  - **oo** Constraints – limiting factors that affect the execution of a project or product.
-  - **oo** Dependencies – logical relationships that exist between two or more entities. Risks can be identified for situation if dependencies are not met.
-  - **oo** Issues – points or matter in question, dispute, or not settled and under discussion.
+  - Assumptions – factors that are considered true, real, or certain without actual proof.
+  - Constraints – limiting factors that affect the execution of a project or product.
+  - Dependencies – logical relationships that exist between two or more entities. Risks can be identified for situation if dependencies are not met.
+  - Issues – points or matter in question, dispute, or not settled and under discussion.
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Analysis Approach ****:**  section 7.1 **       **
-- **••**** Business Goals &amp; Objectives ****:** section 4.3 **       **
-- **••**** Product Scope ****:** section 4.6 **       **
-- **••**** Requir ****ements &amp; Other Product Information:** section 7.3 **ed Capabilities and Features**
+- **Analysis Approach ****:**  section 7.1 **       **
+- **Business Goals &amp; Objectives ****:** section 4.3 **       **
+- **Product Scope ****:** section 4.6 **       **
+- **Requir ****ements &amp; Other Product Information:** section 7.3 **ed Capabilities and Features**
 
 **Tools &amp; Techniques:**
 
-- **••**** Context Diagram ****:** section 7.2
-- **••**** Ecosystem Map ****:** section 7.2
-- **••**** Elicitation Techniques ****:** section 6.3
-- **••**** Estimation Techniques ****:** section 5.4
-- **••**** Organization Chart ****:** section 5.1
-- **••**** Process Flows ****:** section 7.2
-- **••**** Product Backlog ****:** section 7.3
-- **••**** Risk Burndown Chart ****:** section 5.4
-- **••**** Risk Register ****:** is a tool used to support analysis of product risks. Product risks are logged with corresponding details that may include the following: risk ID, risk description, date logged, risk owner, status, updates, impact rating, probability rating, exposure, trigger, risk response, response owner, and workaround.
-- **••**** Root Cause &amp; Opportunity Analysis ****:** section 4.2
-- **••**** SWOT Analysis ****:** Section 4.2
+- **Context Diagram ****:** section 7.2
+- **Ecosystem Map ****:** section 7.2
+- **Elicitation Techniques ****:** section 6.3
+- **Estimation Techniques ****:** section 5.4
+- **Organization Chart ****:** section 5.1
+- **Process Flows ****:** section 7.2
+- **Product Backlog ****:** section 7.3
+- **Risk Burndown Chart ****:** section 5.4
+- **Risk Register ****:** is a tool used to support analysis of product risks. Product risks are logged with corresponding details that may include the following: risk ID, risk description, date logged, risk owner, status, updates, impact rating, probability rating, exposure, trigger, risk response, response owner, and workaround.
+- **Root Cause &amp; Opportunity Analysis ****:** section 4.2
+- **SWOT Analysis ****:** Section 4.2
 
 **       **
 
@@ -980,20 +973,20 @@ When identifying and analyzing product risks, consideration is provided to any a
 
  Assessing product design goes beyond what the product should do and starts to focus on how it should be built or how it should look. This process details how designs would evolve into a solution or product. Each option&#39;s analysis results may provide relevant information to articulate the pros, cons, risks, and costs of the option. Design discussions need to take place before construction begins for any given product, even if it&#39;s only a small piece. Product design assessments can be conducted concurrently to building requirements.
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Business Goals &amp; Objectives ****:** section 4.3 **       **
-- **••**** Prioritized Requirements &amp; Other Product Information ****:** section 7.7
+- **Business Goals &amp; Objectives ****:** section 4.3 **       **
+- **Prioritized Requirements &amp; Other Product Information ****:** section 7.7
 
 **Tools &amp; Techniques:**
 
-- **••**** Affinity Diagram ****:** section 4.3
-- **••**** Brainstorming ****:** section 5.1
-- **••**** Competitive Analysis ****:** section 4.1
-- **••**** Focus Groups ****:** section 6.3
-- **••**** Product Backlog ****:** section 7.3
-- **••**** Real Options ****:** section 4.4
-- **••**** Vendor Assessment ****:** on many projects, vendors may provide a solution that best meets the requirements. When assessing product design options, relevant vendors and their products are evaluated to understand the viability, strengths, weaknesses, and risks of each vendor solution.
+- **Affinity Diagram ****:** section 4.3
+- **Brainstorming ****:** section 5.1
+- **Competitive Analysis ****:** section 4.1
+- **Focus Groups ****:** section 6.3
+- **Product Backlog ****:** section 7.3
+- **Real Options ****:** section 4.4
+- **Vendor Assessment ****:** on many projects, vendors may provide a solution that best meets the requirements. When assessing product design options, relevant vendors and their products are evaluated to understand the viability, strengths, weaknesses, and risks of each vendor solution.
 
 **       **
 
@@ -1016,15 +1009,15 @@ Monitoring ensures that product information remains accurate from the point when
  Each determine traceability and monitoring approach should be structured at a level of formality that meets the needs of a project/product. A traceability process minimizes the likelihood of missing requirements in the final product, and is not time consuming and wasteful to maintain. A change management process ensures that changes align with the business objectives, and is simple to implement necessary changes. Components of this approach related to traceability may include:
 
 -
-  - **oo** Types of object to be traced
-  - **oo** Level of detail needed in traceability
-  - **oo** Relationships that will be established and maintained
-  - **oo** Where relationships will be tracked (e.g. requirements mgmt. tool)
-  - **oo** Requirement life cycle states (maturity model)
-  - **oo** How requirements changes will be proposed
-  - **oo** How changes will be reviewed and documented
-  - **oo** How requirement changes will be communicated
-  - **oo** Roles &amp; responsibilities for the requirements change process.
+  - Types of object to be traced
+  - Level of detail needed in traceability
+  - Relationships that will be established and maintained
+  - Where relationships will be tracked (e.g. requirements mgmt. tool)
+  - Requirement life cycle states (maturity model)
+  - How requirements changes will be proposed
+  - How changes will be reviewed and documented
+  - How requirement changes will be communicated
+  - Roles &amp; responsibilities for the requirements change process.
 
 The traceability approach defines the requirements architecture that will be used to specify how requirements, models, and other product information will be related to one another, including which components of product information will be most appropriate to trace and how the will be traced to one another.  Traceability is not limited to tracing product information. It may be performed on deliverables, components of work such as product design or development.
 
@@ -1032,15 +1025,15 @@ The change management process defines how changes to product information will be
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Compliance Standards ****:** are imposed by external organizations, commonly for reasons related to security, protecting personal information, legal considerations, or safety reasons. Most often they are government or industry regulations. **       **
-- **••**** Configuration Management Standards ****:** is a collection of formal documents, processes, templates, and documentation used to apply governance to changes to the solution or product under development. It ensures that the product being built conforms to its approved requirements. When such standards are not in place, the team needs to determine what the configuration management process will be for all aspects of the project, including the business analysis processes.
-- **••**** Product Scope ****:** section 4.6
+- **Compliance Standards ****:** are imposed by external organizations, commonly for reasons related to security, protecting personal information, legal considerations, or safety reasons. Most often they are government or industry regulations. **       **
+- **Configuration Management Standards ****:** is a collection of formal documents, processes, templates, and documentation used to apply governance to changes to the solution or product under development. It ensures that the product being built conforms to its approved requirements. When such standards are not in place, the team needs to determine what the configuration management process will be for all aspects of the project, including the business analysis processes.
+- **Product Scope ****:** section 4.6
 
 **Tools &amp; Techniques:**
 
-- **••**** Retrospectives and Lessons Learned ****:** section 5.7
+- **Retrospectives and Lessons Learned ****:** section 5.7
 
 **       **
 
@@ -1055,27 +1048,27 @@ The change management process defines how changes to product information will be
  As product information is progressively elaborated, and additional information surfaces, relationships and dependencies are created and revisited. Product information is traces to help provide and complete views of the product scope. Linkages among different components of product information help do the following:
 
 -
-  - **oo****        ** Ensure the product information adds business value – tracing each component of product information helps ensure its relevancy.
-  - **oo** Manage scope – non-value-added product information is highlighted through product information that cannot be traced back to the product scope and business goals and objectives.
-  - **oo** Minimizes the probability of missing requirements
-  - **oo** Perform impact analysis
-  - **oo** Make release decisions
+  -         ** Ensure the product information adds business value – tracing each component of product information helps ensure its relevancy.
+  - Manage scope – non-value-added product information is highlighted through product information that cannot be traced back to the product scope and business goals and objectives.
+  - Minimizes the probability of missing requirements
+  - Perform impact analysis
+  - Make release decisions
 
 Sometimes a requirement is not able to be satisfies in a solution without including the other requirements to which it is related. Some relationships are as follows: subsets, implementation dependency, and benefit or value dependency.
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Product Scope ****:** section 4.6 **       **
-- **••**** Require ****ments &amp; Other Product Information:** section 7.3 **d Capabilities and Features       **
-- **••**** Traceability &amp; Monitoring Approach ****:**  section 8.1
+- **Product Scope ****:** section 4.6 **       **
+- **Require ****ments &amp; Other Product Information:** section 7.3 **d Capabilities and Features       **
+- **Traceability &amp; Monitoring Approach ****:**  section 8.1
 
 **Tools &amp; Techniques:**
 
-- **••**** Feature Model ****:** section 7.2
-- **••**** Requirements Management Tool ****:** allows requirements and other product information to be captured and stored in a repository. These tool often have functionality to: maintain audit trails and perform version control, facilitate review and workflow, generate visual models and interactive prototypes, support team collaboration, integrate with office productivity software, track requirements status, and assist in performing detailed traceability based on links established in the tool.
-- **••**** Story Mapping ****:**  section 7.2
-- **••**** Story Slicing ****:** section 7.3
-- **••**** Traceability Matrix ****:** section 7.2
+- **Feature Model ****:** section 7.2
+- **Requirements Management Tool ****:** allows requirements and other product information to be captured and stored in a repository. These tool often have functionality to: maintain audit trails and perform version control, facilitate review and workflow, generate visual models and interactive prototypes, support team collaboration, integrate with office productivity software, track requirements status, and assist in performing detailed traceability based on links established in the tool.
+- **Story Mapping ****:**  section 7.2
+- **Story Slicing ****:** section 7.3
+- **Traceability Matrix ****:** section 7.2
 
 **       **
 
@@ -1093,27 +1086,27 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
 
  Business analyst includes facilitating discussions among stakeholders to work through different viewpoints and conflicts in requirements and to negotiate an agreed upon outcome, and ultimately, approval.
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Product Scope ****:** section 4.3 **       **
-- **••**** Relationships &amp; Dependencies ****:** section **       ** 8.2
-- **••**** Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section 5.3 **       **
-- **••**** Validated Requirements &amp; Other Product Information ****:** section 7.6 **       **
-- **••**** Verified Requirements &amp; Other Product Information ****:** section 7.5
+- **Product Scope ****:** section 4.3 **       **
+- **Relationships &amp; Dependencies ****:** section **       ** 8.2
+- **Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section 5.3 **       **
+- **Validated Requirements &amp; Other Product Information ****:** section 7.6 **       **
+- **Verified Requirements &amp; Other Product Information ****:** section 7.5
 
 **Tools &amp; Techniques:**
 
-- **••**** Backlog Management ****:** section 7.7
-- **••**** Collaborative Games ****:** section 6.3
-- **••**** Definition of Ready ****:** section 7.3
-- **••**** Delphi ****:** is a consensus-building technique. Experts on the subject participate in this technique anonymously. A facilitator uses a questionnaire to elicit ideas about the important points related to the subject. The responses are summarized and are then recirculated to the experts for further comments. This process is repeated until the results start to converge. The Delphi technique helps reduce bias in the data and prevents any one person from having undue influence on the outcome.
-- **••**** Facilitated Workshops ****:** section 6.3
-- **••**** Force Field Analysis ****:** is a decision-making technique that can be used to help product teams analyze whether there is sufficient support to pursue a change.
-- **••**** Group Decision-Making Techniques ****:** are techniques that can be used in a group setting to bring participants to a final decision on an issue or topic under discussion. Some techniques help the team reach consensus, while other techniques have the objective of reaching a decision that does not necessarily reflect agreement by everyone.
-- **••**** Iteration Planning ****:** section 7.7
-- **••**** Prioritization Schemes ****:** section 7.7
-- **••**** Requirements Management Tool ****:** section 8.2
-- **••**** Story Mapping ****:** section 7.2
+- **Backlog Management ****:** section 7.7
+- **Collaborative Games ****:** section 6.3
+- **Definition of Ready ****:** section 7.3
+- **Delphi ****:** is a consensus-building technique. Experts on the subject participate in this technique anonymously. A facilitator uses a questionnaire to elicit ideas about the important points related to the subject. The responses are summarized and are then recirculated to the experts for further comments. This process is repeated until the results start to converge. The Delphi technique helps reduce bias in the data and prevents any one person from having undue influence on the outcome.
+- **Facilitated Workshops ****:** section 6.3
+- **Force Field Analysis ****:** is a decision-making technique that can be used to help product teams analyze whether there is sufficient support to pursue a change.
+- **Group Decision-Making Techniques ****:** are techniques that can be used in a group setting to bring participants to a final decision on an issue or topic under discussion. Some techniques help the team reach consensus, while other techniques have the objective of reaching a decision that does not necessarily reflect agreement by everyone.
+- **Iteration Planning ****:** section 7.7
+- **Prioritization Schemes ****:** section 7.7
+- **Requirements Management Tool ****:** section 8.2
+- **Story Mapping ****:** section 7.2
 
 **       **
 
@@ -1133,23 +1126,23 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Approved Requirements ****:** section 8.3 **       **
-- **••**** Business Goals &amp; Objectives ****:** section 4.3 **       **
-- **••**** Change Requests ****:** section7.7 **       **
-- **••**** Product Scope ****:** section 4.7 **       **
-- **••**** Relationships &amp; Dependencies ****       **  **:** section 8.2
-- **••**** Traceability &amp; Monitoring Approach ****:** section 8.1
+- **Approved Requirements ****:** section 8.3 **       **
+- **Business Goals &amp; Objectives ****:** section 4.3 **       **
+- **Change Requests ****:** section7.7 **       **
+- **Product Scope ****:** section 4.7 **       **
+- **Relationships &amp; Dependencies ****       **  **:** section 8.2
+- **Traceability &amp; Monitoring Approach ****:** section 8.1
 
 **Tools &amp; Techniques:**
 
-- **••**** Backlog Management ****:** section 7.7
-- **••**** Change Control Tools ****:** are used on predictive life cycle projects.
-- **••**** Group Decision-Making Techniques ****:** section 8.3
-- **••**** Impact Analysis ****:** is a technique used to evaluate a change in relation to how it wil affect related elements. When a change to product information is proposed, an impact analysis is performed to evaluate the proposed change in relation to how it will affect component of the project/product. It also includes identifying risks associated with the change, work required to incorporate the change, and the schedule and cost implications.
-- **••**** Requirements Management Tool ****:** section 8.2
-- **••**** Traceability Matrix ****:** section 8.2
+- **Backlog Management ****:** section 7.7
+- **Change Control Tools ****:** are used on predictive life cycle projects.
+- **Group Decision-Making Techniques ****:** section 8.3
+- **Impact Analysis ****:** is a technique used to evaluate a change in relation to how it wil affect related elements. When a change to product information is proposed, an impact analysis is performed to evaluate the proposed change in relation to how it will affect component of the project/product. It also includes identifying risks associated with the change, work required to incorporate the change, and the schedule and cost implications.
+- **Requirements Management Tool ****:** section 8.2
+- **Traceability Matrix ****:** section 8.2
 
 **       **
 
@@ -1164,10 +1157,10 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
  Preparation for evaluating a solution includes defining and confirming the expected business, value, and identifying and defining what kind of performance data will be used for evaluation. For projects and products, the following can be stated with regard to solution evaluation:
 
 -
-  - **oo** To identify new or changed requirements, which may lead to solution refinement or new solutions.
-  - **oo** Can provide input into go/no-go business and technical decisions when releasing an entire solution or a segment of it.
-  - **oo** May identify a point of diminishing returns, such as the point where additional value that could be obtained from a solution does not justify the additional effort.
-  - **oo** Can be the basis for follow-up activities
+  - To identify new or changed requirements, which may lead to solution refinement or new solutions.
+  - Can provide input into go/no-go business and technical decisions when releasing an entire solution or a segment of it.
+  - May identify a point of diminishing returns, such as the point where additional value that could be obtained from a solution does not justify the additional effort.
+  - Can be the basis for follow-up activities
 
 **9.1        EVALUATE SOLUTION PERFORMANCE**
 
@@ -1177,21 +1170,21 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Business Case ****       **  **:** section 4.6
-- **••**** Business Goals &amp; Objectives ****:** section **       ** 4.3
-- **••**** Evaluated Acceptance Results ****:** section 9.3 **       **
-- **••**** Performance Data ****:** are a quantifies output of a product. Examples include reduction in costs, productivity achieved in using a service, level of customer satisfaction. Ideally, performance data are measured for the stated business goals and objectives. Some objective may not use data as metrics. Proxy performance data could be used, and include measurements such as the average duration of a task, response times for solutions involving software, or counts of errors made while performing tasks. **       **
-- **••**** Solution Evaluation Approach ****:** section 9.2
+- **Business Case ****       **  **:** section 4.6
+- **Business Goals &amp; Objectives ****:** section **       ** 4.3
+- **Evaluated Acceptance Results ****:** section 9.3 **       **
+- **Performance Data ****:** are a quantifies output of a product. Examples include reduction in costs, productivity achieved in using a service, level of customer satisfaction. Ideally, performance data are measured for the stated business goals and objectives. Some objective may not use data as metrics. Proxy performance data could be used, and include measurements such as the average duration of a task, response times for solutions involving software, or counts of errors made while performing tasks. **       **
+- **Solution Evaluation Approach ****:** section 9.2
 
 **Tools &amp; Techniques:**
 
-- **••**** Cost-Benefit Analysis ****:** section 4.4
-- **••**** Elicitation Techniques ****:** section 6.3
-- **••**** Product Portfolio Matrix ****:** also known as growth-share matrix, is a market analysis quadrant diagram used to qualitatively analyze their products or product lines.
-- **••**** Prioritization Schemes ****:** section 7.7
-- **••**** Root Cause and Opportunity analysis ****:** section 4.2
+- **Cost-Benefit Analysis ****:** section 4.4
+- **Elicitation Techniques ****:** section 6.3
+- **Product Portfolio Matrix ****:** also known as growth-share matrix, is a market analysis quadrant diagram used to qualitatively analyze their products or product lines.
+- **Prioritization Schemes ****:** section 7.7
+- **Root Cause and Opportunity analysis ****:** section 4.2
 
 **       **
 
@@ -1209,18 +1202,18 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Metrics and KPIs ****:** is a set of quantifiable measurements used to evaluate a solution or business. In solution evaluation, a metric defines how solution performance can be quantified. Key performance indicators are a related type of metric, usually defines by an organization&#39;s executives, use to evaluate the organization&#39;s progress toward meeting its objectives or goals. **       **
-- **••**** Product Scope ****:** section **       ** 4.6
-- **••**** Situation Statement ****:** section 4.1
+- **Metrics and KPIs ****:** is a set of quantifiable measurements used to evaluate a solution or business. In solution evaluation, a metric defines how solution performance can be quantified. Key performance indicators are a related type of metric, usually defines by an organization&#39;s executives, use to evaluate the organization&#39;s progress toward meeting its objectives or goals. **       **
+- **Product Scope ****:** section **       ** 4.6
+- **Situation Statement ****:** section 4.1
 
 **Tools &amp; Techniques:**
 
-- **••**** Elicitation Techniques ****:** section 6.3
-- **••**** Group Decision-Making Techniques ****:** section 8.3
-- **••**** Prioritization Schemes ****:** section 7.7
-- **••**** Retrospectives and Lessons Learned ****:** section 5.7
+- **Elicitation Techniques ****:** section 6.3
+- **Group Decision-Making Techniques ****:** section 8.3
+- **Prioritization Schemes ****:** section 7.7
+- **Retrospectives and Lessons Learned ****:** section 5.7
 
 **       **
 
@@ -1239,25 +1232,25 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
  The test results that are part of evaluating acceptance criteria and addressing defects may come from:
 
 -
-  - **oo** Exploratory tests and user acceptance
-  - **oo** Day-in-the-life tests
-  - **oo** Preproduction or simulated production testing
-  - **oo** Tests of functionality with a scenario
-  - **oo** Tests of nonfunctional requirements
+  - Exploratory tests and user acceptance
+  - Day-in-the-life tests
+  - Preproduction or simulated production testing
+  - Tests of functionality with a scenario
+  - Tests of nonfunctional requirements
 
 For solutions that involve software, where an organization has adopted automated regression testing, it may be possible to spot trends and patterns in out-of-tolerance results.
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Acceptance Criteria ****:** section 7.4
-- **••**** Actual Acceptance Results ****:** contain pass/fail results from comparing test results against the acceptance criteria, often provided by a quality control team. In business analysis, the actual acceptance results are then analyzed to determine the reasons for any differences between the test results and acceptance criteria and to recommend how to address the defects.
+- **Acceptance Criteria ****:** section 7.4
+- **Actual Acceptance Results ****:** contain pass/fail results from comparing test results against the acceptance criteria, often provided by a quality control team. In business analysis, the actual acceptance results are then analyzed to determine the reasons for any differences between the test results and acceptance criteria and to recommend how to address the defects.
 
 **Tools &amp; Techniques:**
 
-- **••**** Prioritization Schemes ****:** section 7.7
-- **••**** Root Cause Analysis ****:**  section 4.2
-- **••**** Traceability Matrix ****:** section 8.2
-- **••**** Variance Analysis ****:** section 5.7
+- **Prioritization Schemes ****:** section 7.7
+- **Root Cause Analysis ****:**  section 4.2
+- **Traceability Matrix ****:** section 8.2
+- **Variance Analysis ****:** section 5.7
 
 **       **
 
@@ -1276,31 +1269,31 @@ For solutions that involve software, where an organization has adopted automated
  Release decisions are typically based upon:
 
 -
-  - **oo** Acceptability of a solution, as evidenced by the evaluated acceptance results
+  - Acceptability of a solution, as evidenced by the evaluated acceptance results
   -  Confirmation that the organization is ready for release
-  - **oo** Confirmation that the transition activities for the release have been completed to the degree necessary
-  - **oo** Acceptance of any remaining product risks and workarounds
+  - Confirmation that the transition activities for the release have been completed to the degree necessary
+  - Acceptance of any remaining product risks and workarounds
 
 A decision to release a solution to its operational area requires confirmation of the completion of any warranty period. A warranty period is an interval of time during which the product development team is responsible for addressing any defects found after the solution is released for production.
 
 **       **
 
-**        Inputs:**
+**Inputs:**
 
-- **••**** Approved Requirements ****:** section8.3 **       **
-- **••**** Evaluated Acceptance Results ****:** section9.3 **       **
-- **••**** Product Risk Analysis ****:** section7.8 **       **
-- **••**** Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section **       ** 5.3
-- **••**** Transition Plan ****:** section 5.5
+- **Approved Requirements ****:** section8.3 **       **
+- **Evaluated Acceptance Results ****:** section9.3 **       **
+- **Product Risk Analysis ****:** section7.8 **       **
+- **Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section **       ** 5.3
+- **Transition Plan ****:** section 5.5
 
 **Tools &amp; Techniques:**
 
-- **••**** Approved Requirements ****Facilitated Workshops**** :** section 6.3
-- **••**** Evaluated Acceptance Resu ****lts**** Group Decision-Making Techniques ****:** section 8.3
-- **••**** Product Risk Analysis**
-- **••**** Readiness Assessment**
-- **••**** Stakeholder Engagement and Communication Approach**
-- **••**** Transition Plan**
+- **Approved Requirements ****Facilitated Workshops**** :** section 6.3
+- **Evaluated Acceptance Resu ****lts**** Group Decision-Making Techniques ****:** section 8.3
+- **Product Risk Analysis**
+- **Readiness Assessment**
+- **Stakeholder Engagement and Communication Approach**
+- **Transition Plan**
 
 **       **
 
