@@ -1,5 +1,6 @@
- “Markdown: Convert to HTML”
-
+---
+title: Document Center
+---
 
 **Introduction:**
 
@@ -129,7 +130,7 @@ Involves conducting further elicitation to define changes to address what change
 
 **4.4         DETERMINE VIABLE OPTIONS &amp; PROVIDE RECOMMENDATIONS**
 
-**       ** Is the process of applying various techniques to examine possible solutions to existing business problems that will meet organizational goals and objectives, and to determine which of the options are considered the best for the organization or development team to pursue. The key benefit of this process is that it validates the proposed solutions and promotes the best course of action for executives and decision makers to meet the business goals and objectives.
+ Is the process of applying various techniques to examine possible solutions to existing business problems that will meet organizational goals and objectives, and to determine which of the options are considered the best for the organization or development team to pursue. The key benefit of this process is that it validates the proposed solutions and promotes the best course of action for executives and decision makers to meet the business goals and objectives.
 
  Determining viable options encompasses discussions with stakeholders and product team members to perform further analysis for defining a list of possible solution recommendations to address the business need.
 
@@ -150,7 +151,7 @@ Involves conducting further elicitation to define changes to address what change
 - **Group Decision-Making Techniques**
 - ** Real Options:** is a technique to help teams determine when to make decisions, not how or why. This technique can be used on projects that follow an adaptive delivery model. The objective is to approach decision making by reducing the number of decisions that need to be made in the short term, and to delay other decisions as late as possible to allow the product team more time to discover and improve its knowledge base.
 
-**       **
+
 
 **Outputs:**
 
@@ -161,11 +162,11 @@ Involves conducting further elicitation to define changes to address what change
 
 
 
-**4.5         FACILITATE PRODUCT ROADMAP DEVELOPMENT       **
+**4.5         FACILITATE PRODUCT ROADMAP DEVELOPMENT**
 
-**       **
 
-**       ** Is the process of supporting the development of a product roadmap that outlines, at the high-level, which aspects of a product are planned for delivery over the course of a project, its iterations or releases, and the potential sequence for product delivery. The key benefit of the process is that it creates shared expectations among the stakeholders for the deliverables and potential order in which they will be delivered.
+
+ Is the process of supporting the development of a product roadmap that outlines, at the high-level, which aspects of a product are planned for delivery over the course of a project, its iterations or releases, and the potential sequence for product delivery. The key benefit of the process is that it creates shared expectations among the stakeholders for the deliverables and potential order in which they will be delivered.
 
  In business analysis, product roadmaps provide important information about a product, providing insight about the product vision and how the product will support the organizational strategy, its business goals and objectives over time. The process of creating a Product Road map is a collaborative effort that brings together resources from the business/organization and development team to form a shared understanding of what is being requested and why. This process may include &quot;what if&quot; scenarios. Discussions begin at high level focusing on vision, and continues through lower levels of detail.
 
@@ -183,7 +184,7 @@ Involves conducting further elicitation to define changes to address what change
 - **Product Visioning:** used to set high-level direction for a product or product release.
 - **Story Mapping:** used to sequence user stories that is based on business value and the order in which their users typically perform them so that teams can arrive at a shared understanding of what will be built.
 
-**       **
+
 
 **Output:**
 
@@ -199,7 +200,7 @@ Involves conducting further elicitation to define changes to address what change
 
  The business case is intended to be a living document that is consistently updated and referenced throughout a project. It may be necessary to review and update a business case based on what is discovered over time.
 
-**       **
+
 
 **Inputs:**
 
@@ -218,7 +219,7 @@ Involves conducting further elicitation to define changes to address what change
 - **Product Visioning:** Section 4.5
 - **Story Mapping**: is a technique used to sequence user stories, based upon business value and the order which their users typically perform them, so that teams can arrive at a shared understanding of what is being built. Stories written into a business case are typically written at a high level and may exist as epics (epics are later split into other epics or individual user stories).
 
-**       **
+
 
 **Outputs:**
 
@@ -244,7 +245,7 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 - **Glossary**
 - **Interviews**
 
-**       **
+
 
 **Outputs:**
 
@@ -259,7 +260,7 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 
  Is the process of determining how to best identify, engage, communicate, and analyze those stakeholders with an interest in the business solution. The Stakeholder Engagement process raises awareness about those who have a connection, either directly or indirectly, to the product(s) being produced. Stakeholder Engagement is about ensuring optimal representation and ongoing interest and involvement from the organization.
 
-**5.1        IDENTIFY STAKEHOLDERS       **
+**5.1        IDENTIFY STAKEHOLDERS**
 
  Is the process of identifying the individuals, groups, or organizations that may impact, are impacted, or are perceived to be impacted by a decision, activity or outcome of a project or product. Product stakeholders take part in the discovery of requirements and contribute in elicitation by sharing information from which product requirements are eventually formed.
 
@@ -276,7 +277,7 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 - **Process Flows:** visually document the steps or tasks that people perform in their jobs or when they interact with a product. These models are typically well understood by business stakeholders.
 - **Questionnaires &amp; Surveys:** Described in Section 6.3.9. They are written sets of questions designed to quickly accumulate information from a large number of respondents. Surveys can be used to collect information to establish or maintain a stakeholder list.
 
-**       **
+
 
 **Output:**
 
@@ -284,9 +285,9 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 
 
 
-**5.2        CONDUCT STAKEHOLDER ANALYSIS       **
+**5.2        CONDUCT STAKEHOLDER ANALYSIS**
 
-**       ** Is the process of researching and analyzing quantitative and qualitative information about the individuals, groups, or organizations that may impact, are impacted or are perceived to be impacted by the product. The key benefit of this process is that it provides important insights about stakeholders that can be used when choosing elicitation and analysis techniques, and determining the best communication and collaboration methods to use.
+ Is the process of researching and analyzing quantitative and qualitative information about the individuals, groups, or organizations that may impact, are impacted or are perceived to be impacted by the product. The key benefit of this process is that it provides important insights about stakeholders that can be used when choosing elicitation and analysis techniques, and determining the best communication and collaboration methods to use.
 
  This process is performed to systematically and iteratively revisited throughout the project. As refinements are made to the product scope, the addition or removal of stakeholders may occur. Early planning may produce an initial stakeholder list, but further identification will maintain it.
 
@@ -305,7 +306,7 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 - **RACI Model:** is a type of responsibility assignment matrix that uses Responsible, Accountable, Consult, and Inform designations to define the involvement of stakeholders in activities. It can be used to communicate the roles and responsibilities of those involved in the business analysis effort. This tool may minimize confusion of roles, conflicts and areas where responsibilities overlap.
 - **Stakeholder Maps:** are a collection of techniques used for analyzing how stakeholders relate to one another and to the solution under analysis.
 
-**       **
+
 
 **Output:**
 
@@ -317,7 +318,7 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 
  Is the process of developing appropriate methods to effectively engage and communicate with stakeholders throughout the product lifecycle, based on an analysis of their needs, interest, and roles within the business analysis process. The purpose of this process is that it provides an approach to engage stakeholders through the requirements discovery activities, so that stakeholders receive the proper information with the best communication method to satisfy stakeholder expectations. This process means developing various methods to achieve optimal levels of commitment from stakeholders at appropriate points in the product lifecycle. Planning for stakeholder engagement and communication is critical for the success of product development.
 
-**       **
+
 
 **Inputs:**
 
@@ -332,7 +333,7 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 - **Retrospectives &amp; Lessons Learned:** Use past experience to plan for future work. An optimal stakeholder engagement and communication approach may include lessons learned from past project, or approaches that have worked well for similar product developments.
 - **Stakeholder Maps:** Section 5.2
 
-**       **
+
 
 **Output:**
 
@@ -342,13 +343,13 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 
 **5.4        CONDUCT BUSINESS ANALYSIS PLANNING**
 
-**       ** Is the process of achieving an agreed upon approach regarding how business analysis activities the team will complete to successfully complete the work. The results of this process are assembled into a business analysis plan that may be formally documented and approved on how the team operates. Whether the plan is formally documented or not, the results from all of the planning processes should be considered in the overall approach. The key benefit of this process is that it encourages discussions to set expectations on how business analysis work will be undertaken and avoids confusion regarding roles and responsibilities.
+ Is the process of achieving an agreed upon approach regarding how business analysis activities the team will complete to successfully complete the work. The results of this process are assembled into a business analysis plan that may be formally documented and approved on how the team operates. Whether the plan is formally documented or not, the results from all of the planning processes should be considered in the overall approach. The key benefit of this process is that it encourages discussions to set expectations on how business analysis work will be undertaken and avoids confusion regarding roles and responsibilities.
 
  The approach associated with these processes are accomplished in different ways for efforts that use a plan-driven and predictive life cycle, as opposed to a change-driven and adaptive life cycle approach.
 
-**       **
 
-**       **
+
+
 
 **Inputs:**
 
@@ -378,7 +379,7 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
   -  Story mapping:** a technique used in planning for projects that use an adaptive life cycle. Story mapping is used to sequence user stories, based on business value and in the order users typically perform them, so that teams can arrive at a shared understanding of what will be built. From a business analysis perspective, story mapping can help suggest when more effort may need to be spent on analysis.
   -  Work breakdown structure (WBS):** a technique used for predictive life cycles. It is a hierarchical decomposition of the total scope of work to be accomplished by a project team to create the required deliverables.
 
-**       **
+
 
 **Outputs:**
 
@@ -386,11 +387,11 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 
 
 
-**5.5        PREPARE FOR TRANSITION TO FUTURE STATE       **
+**5.5        PREPARE FOR TRANSITION TO FUTURE STATE**
 
-**       ** Is the process of determining whether the organization is ready for a transition and how the organization will move from the current to the future state. The key benefit of this process is so the organization can successfully adopt the changes resulting from the implementation of the solution or product.
+ Is the process of determining whether the organization is ready for a transition and how the organization will move from the current to the future state. The key benefit of this process is so the organization can successfully adopt the changes resulting from the implementation of the solution or product.
 
-**       ** Preparing for transition involves assessing the readiness of the organization to successfully transition from product development to operations and creating a plan to identify the requirements for making the transition successful. The readiness assessment is used to identify any gaps in readiness that are considered risks to achieve end state. Transition requirements describe temporary capabilities, such as data conversion and training requirements, and operational changes needed to transition from the current state to future state. Transition requirements may also be discovered while modeling, defining, and elaborating product requirements.
+ Preparing for transition involves assessing the readiness of the organization to successfully transition from product development to operations and creating a plan to identify the requirements for making the transition successful. The readiness assessment is used to identify any gaps in readiness that are considered risks to achieve end state. Transition requirements describe temporary capabilities, such as data conversion and training requirements, and operational changes needed to transition from the current state to future state. Transition requirements may also be discovered while modeling, defining, and elaborating product requirements.
 
  Success product releases depend on delivering the solution with tits expected capabilities and preparing the people who are going to use it. For some products, a successful release also depends upon having the operational environment set up or converted.
 
@@ -414,7 +415,7 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 - **SWOT Analysis:** section 4.2
 - **User Story:** section 7.3
 
-**       **
+
 
 **Outputs:**
 
@@ -425,9 +426,9 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 
 **5.6        MANAGE STAKEHOLDER ENGAGEMENT &amp; COMMUNICATION**
 
-**       ** Is the process of fostering stakeholder&#39;s involvement in business analysis processes, keeping them informed about ongoing analysis efforts, and sharing product information as it evolves. The key benefits of this process. The key benefits of this process are that it promotes continuous stakeholder participation in the business analysis process and in defining the solution and maintains ongoing communication with stakeholders.
+ Is the process of fostering stakeholder&#39;s involvement in business analysis processes, keeping them informed about ongoing analysis efforts, and sharing product information as it evolves. The key benefits of this process. The key benefits of this process are that it promotes continuous stakeholder participation in the business analysis process and in defining the solution and maintains ongoing communication with stakeholders.
 
-**       **
+
 
 **Inputs:**
 
@@ -438,7 +439,7 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 
 - **Elicitation Techniques:** section 6.3.
 
-**       **
+
 
 **Outputs:**
 
@@ -446,9 +447,9 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 
 
 
-**5.7        ASSESS BUSINESS ANALYSIS PERFORMANCE       **
+**5.7        ASSESS BUSINESS ANALYSIS PERFORMANCE**
 
-**       ** Is the process of considering the effectiveness of business analysis practices considering the ongoing deliverables and results of a project or products. Practices that are working well can be elevated to best practices and standards for use on future efforts. The key benefit of this process is that it provides the opportunity to adjust business analysis practices to meet the needs of a project, its team, and ultimately, the organization. This process is typically undertaken by organizations that continually strive to improve their practices and processes.
+ Is the process of considering the effectiveness of business analysis practices considering the ongoing deliverables and results of a project or products. Practices that are working well can be elevated to best practices and standards for use on future efforts. The key benefit of this process is that it provides the opportunity to adjust business analysis practices to meet the needs of a project, its team, and ultimately, the organization. This process is typically undertaken by organizations that continually strive to improve their practices and processes.
 
 **Inputs:**
 
@@ -465,7 +466,7 @@ Note from Ben: as business cases are an input to a Project Charter to verify at 
 - **Root Cause &amp; Opportunity Analysis:** section 4.2
 - **Variance Analysis:** is a quantifiable deviation from a known baseline or expected value.
 
-**       **
+
 
 **Outputs:**
 
@@ -483,9 +484,9 @@ Elicitation is highly cyclical and is repeated multiple times for each level of 
 
 
 
-**6.1        DETERMINE ELICITATION APPROACH       **
+**6.1        DETERMINE ELICITATION APPROACH**
 
-**       ** Is the process of thinking though how elicitation activities will be conducted, which stakeholders will be involved, which techniques may be used, and the order in which the elicitation activities are best performed. The key benefits of this process are efficient use of stakeholder time, effective stakeholder collaboration, and an organized approach to elicitation.
+ Is the process of thinking though how elicitation activities will be conducted, which stakeholders will be involved, which techniques may be used, and the order in which the elicitation activities are best performed. The key benefits of this process are efficient use of stakeholder time, effective stakeholder collaboration, and an organized approach to elicitation.
 
  The elicitation approach is used to formulate how to structure the elicitation activities and to think through how best to coordinate and conduct elicitation. Some elements in an elicitation approach include:
 
@@ -504,10 +505,10 @@ A well-though out approach to elicitation provides the following benefits:
 
 **Inputs:**
 
-- **Product Scope ****:** section 4.6. Is defined as the features and functions that characterize a solution. The product scope provides context and defines the boundaries to determine what information to elicit with the goal of further detailing the scope items. **       **
-- **Situation Statement ****:**  section 4.1 **       **
+- **Product Scope ****:** section 4.6. Is defined as the features and functions that characterize a solution. The product scope provides context and defines the boundaries to determine what information to elicit with the goal of further detailing the scope items. 
+- **Situation Statement ****:**  section 4.1 
 - **Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section 5.3
-- **Ap ****proach       **
+- **Ap ****proach**
 - **Stakeholder Register ****:** section 5.2.
 
 **Tools &amp; Techniques:**
@@ -516,7 +517,7 @@ A well-though out approach to elicitation provides the following benefits:
 - **Interviews ****:** is performed by asking questions &amp; documenting responses. The business analyst may want to interview subject matter experts to discover other sources of information to elicit from, to obtain stakeholder preferences for the elicitation process, stakeholder experience, and comfort level with elicitation techniques used/considered.
 - **Retrospectives &amp; Lessons Learned ****:** section 5.7.
 
-**       **
+
 
 **Outputs:**
 
@@ -524,7 +525,7 @@ A well-though out approach to elicitation provides the following benefits:
 
 **6.2        PREPARE FOR ELICITATION**
 
-**       ** Is the process of organizing and scheduling resources and preparing necessary materials for individual elicitation activity. The key benefits of this process are that the elicitation activities are organized and effectively performed and stakeholders understand up front why they are involved and what is required of them. Preparation materials are for the benefit of the facilitator to ensure that the elicitation is conducted effectively and time spent with stakeholders is efficiently used.
+ Is the process of organizing and scheduling resources and preparing necessary materials for individual elicitation activity. The key benefits of this process are that the elicitation activities are organized and effectively performed and stakeholders understand up front why they are involved and what is required of them. Preparation materials are for the benefit of the facilitator to ensure that the elicitation is conducted effectively and time spent with stakeholders is efficiently used.
 
  The following activities may be performed to prepare for an elicitation activity:
 
@@ -536,14 +537,14 @@ A well-though out approach to elicitation provides the following benefits:
   - Set the agenda
   - Schedule the elicitation activity
 
-**       **
+
 
 **Inputs:**
 
-- **Elicitation Approach ****:** section 6.1. Explains how elicitation will be performed. **       **
-- **Product Scope ****:** section 4.6 **       **
-- **Require ****ments &amp; Other Product Information**** d Capabilities and Features ****:** section 7.3. It includes all the information about a solution and is the culmination of results from elicitation and analysis activities. **       **
-- **Situation Statement ****:** section 4.1 **       **
+- **Elicitation Approach ****:** section 6.1. Explains how elicitation will be performed. 
+- **Product Scope ****:** section 4.6 
+- **Require ****ments &amp; Other Product Information**** d Capabilities and Features ****:** section 7.3. It includes all the information about a solution and is the culmination of results from elicitation and analysis activities. 
+- **Situation Statement ****:** section 4.1 
 - **Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section 5.3
 
 **Tools &amp; Techniques:**
@@ -551,7 +552,7 @@ A well-though out approach to elicitation provides the following benefits:
 - **Document Analysis ****:** is an elicitation used to analyze existing documentation to identify relevant product information. It can be used to obtain information that is readily available that may result in reducing the amount of elicitation time needed with stakeholders.
 - **Interviews ****:** section 6.3
 
-**       **
+
 
 **Output**** s ****:**
 
@@ -559,7 +560,7 @@ A well-though out approach to elicitation provides the following benefits:
 
 **6.3        CONDUCT ELICITATION**
 
-**       ** Is the process of applying various elicitation techniques to draw out information from stakeholders. The key benefit of this process is that it obtains information from the appropriate sources to sufficiently define and elaborate requirements and other product information.
+ Is the process of applying various elicitation techniques to draw out information from stakeholders. The key benefit of this process is that it obtains information from the appropriate sources to sufficiently define and elaborate requirements and other product information.
 
  There are three stages during an elicitation activity that are applicable regardless of the elicitation technique used:
 
@@ -568,12 +569,12 @@ A well-though out approach to elicitation provides the following benefits:
   - Body: where the question are asked and answers are given
   - Close: a graceful termination to the particular activity
 
-**       **
+
 
 **Inputs:**
 
-- **Elicitation Preparation Materials ****:** Section 6.2 **       **
-- **Product Scope ****:**  section 4.6 **       **
+- **Elicitation Preparation Materials ****:** Section 6.2 
+- **Product Scope ****:**  section 4.6 
 - **Situation Statement ****:** section 4.1
 
 **Tools &amp; Techniques:**
@@ -591,7 +592,7 @@ A well-though out approach to elicitation provides the following benefits:
 - **Prototyping ****:** is a method of obtaining early feedback on requirements by providing a model of the expected solution before building it. This provides an opportunity to validate a conceptual working solution against a set of requirements to look for potential gaps in requirements. Prototypes support the concept of progressive elaboration through iterative cycles of mockup creation, user experimentation, feedback generation, and prototype revision.
 - **Questionnaires &amp; Surveys ****:** are written sets of questions designed to quickly accumulate information from a large number of respondents.
 
-**       **
+
 
 **Outputs:**
 
@@ -601,7 +602,7 @@ A well-though out approach to elicitation provides the following benefits:
 
 **6.4        CONFIRMED ELICITATION RESULTS**
 
-**       ** Is the process of performing follow-up activities on previous elicitation results by reviewing with stakeholders the completeness and accuracy of the information. The key benefit of this process is that it validates that stakeholders and the elicitation results were understood during elicitation.
+ Is the process of performing follow-up activities on previous elicitation results by reviewing with stakeholders the completeness and accuracy of the information. The key benefit of this process is that it validates that stakeholders and the elicitation results were understood during elicitation.
 
  During elicitation, information may be captured via multiple types of media, such as: whiteboards, flipcharts, meeting notes, and recording devices. Elicitation results may need to be:
 
@@ -614,12 +615,12 @@ A well-though out approach to elicitation provides the following benefits:
   - Converted to a level of formality based on stakeholder needs
   - Packaged for distribution
 
-**       **
+
 
 **Inputs:**
 
-- **Elicitation Preparation Materials ****:** section 6.2 **       **
-- **Unconfirmed Elicitation Results ****:** section 6.3 **       **
+- **Elicitation Preparation Materials ****:** section 6.2 
+- **Unconfirmed Elicitation Results ****:** section 6.3 
 
 **Tools &amp; Techniques:**
 
@@ -629,7 +630,7 @@ A well-though out approach to elicitation provides the following benefits:
 - **Observation ****:** section 6.3
 - **Walkthroughs ****:** is a peer review in which the author of the materials walks the peer reviewers through the authored information. A walkthrough may be conducted to review the elicitation results for accuracy, or to clarify any discrepancies. In section 7.3
 
-**       **
+
 
 **Outputs:**
 
@@ -641,19 +642,19 @@ A well-though out approach to elicitation provides the following benefits:
 
 **7.1        DETERMINE ANALYSIS APPROACH**
 
-**       ** Is the process of thinking ahead about how analysis will be performed, including what will be performed and analyzed, which model will be beneficial to produce, and how information will be verified, validated, and prioritized. The key benefit to this process is that is supports a shared understanding of the business analysis work to be performed to develop the solution.
+ Is the process of thinking ahead about how analysis will be performed, including what will be performed and analyzed, which model will be beneficial to produce, and how information will be verified, validated, and prioritized. The key benefit to this process is that is supports a shared understanding of the business analysis work to be performed to develop the solution.
 
  The analysis approach identifies the relevant types of product information that will be considered, including the requirements attributes that need to be captured, and an explanation about how product information will be verified, validated, and prioritized. In adaptive delivery product life cycles, user stories may be stated as ready, not ready, or done, where done is tied to the delivery and acceptance of that portion of the product requirement.
 
  The analysis approach also identifies which activities are pertinent, templates to start from when documenting requirements, tools to use, and how any of these may be modified.
 
-**       **
+
 
 **Inputs:**
 
-- **Elicitation Approach ****:** section 6.1 **       **
-- **Product Scope ****:** section 4.6 **       **
-- **Situation Statement ****:** section 4.1 **       **
+- **Elicitation Approach ****:** section 6.1 
+- **Product Scope ****:** section 4.6 
+- **Situation Statement ****:** section 4.1 
 - **Traceability and Monitoring Approach ****:** defines the traceability and change management processes for the project or product. Covered in section 8.1.
 
 **Tools &amp; Techniques:**
@@ -662,7 +663,7 @@ A well-though out approach to elicitation provides the following benefits:
 - **Document Analysis ****:** section 6.3
 - **Retrospectives &amp; Lessons Learned ****:** section 5.7
 
-**       **
+
 
 **Outputs:**
 
@@ -672,7 +673,7 @@ A well-though out approach to elicitation provides the following benefits:
 
 **7.2        CREATE &amp; ANALYZE MODELS**
 
-**       ** Is the process of creating structured and visual representations, such as diagrams, tables, or structured text, of any product information to facilitate further analysis by identifying gaps in information. The key benefit of this process is that it helps convey information in an organized manner that provides clarity and helps achieve correctness and completeness.
+ Is the process of creating structured and visual representations, such as diagrams, tables, or structured text, of any product information to facilitate further analysis by identifying gaps in information. The key benefit of this process is that it helps convey information in an organized manner that provides clarity and helps achieve correctness and completeness.
 
  This process includes both developing and analysis models determined by the approach to improve the overall product information. Models provide context to discussions and provide for better understanding of complex relationships and concepts. Often, models can convey information more clearly than textual descriptions and can clarify and discover information with stakeholders. Analyzing models involves looking at a few pieces of information, not necessarily the whole set of information, and finding patterns to explore the problem space further.
 
@@ -688,8 +689,8 @@ No situation requires all types of models listed below to be used. Some models a
 
 **Inputs:**
 
-- **Analysis Approach ****:** section 7.1 **       **
-- **Confirmed Elicitation Results ****:** section 6.4 **       **
+- **Analysis Approach ****:** section 7.1 
+- **Confirmed Elicitation Results ****:** section 6.4 
 - **Require ****ments and Other Product Information**** d Capabilities and Features ****:** include all information about a solution and is the culmination of results from elicitation and analysis activities. Further described in section 7.3.
 
 **Tools &amp; Techniques:**
@@ -721,7 +722,7 @@ No situation requires all types of models listed below to be used. Some models a
 - **Use Case Diagram ****:** is a scope model that shows all the in-scope use cases for a solution and involves listing users and possible scenarios of how each user will use the solution.
 - **User Interface Flow ****:** is an interface model that displays specific user interfaces and commonly used screens within a functional design and plots out how to navigate between them. These are typically created after process flows and use cases to ensure that navigation in the system is logical and correct.
 
-**       **
+
 
 **Output**** s ****:**
 
@@ -729,7 +730,7 @@ No situation requires all types of models listed below to be used. Some models a
 
 **7.3        DEFINE &amp; ELABORATE REQUIREMENTS**
 
-**       ** Is the process of refining and documenting requirements and other types of product information at the appropriate level of detail, format, and level of formality required for various audiences. The key benefits of this process are that it helps clarify details about the product information so the team can work from it effectively, and stores product information is a manner that can be accessed and processed by all stakeholders.
+ Is the process of refining and documenting requirements and other types of product information at the appropriate level of detail, format, and level of formality required for various audiences. The key benefits of this process are that it helps clarify details about the product information so the team can work from it effectively, and stores product information is a manner that can be accessed and processed by all stakeholders.
 
  This process entails understanding and analyzing information discovered during elicitation, model analysis, and relationship dependency analysis to identify and write requirements and performed at different times to identify stakeholders, solutions, and transition requirements. In an adaptive approach, this process may be performed to define and elaborate user stories and the formation for any of those requirement types. The analysis performed also provides attribute values.
 
@@ -739,14 +740,14 @@ No situation requires all types of models listed below to be used. Some models a
 
  The total culmination of all product information is called a requirements package. It does not have to be, and often is not, a formal document. It could be user stories and relation information stored and evolving in a backlog.
 
-**       **
+
 
 **Inputs:**
 
-- **Analysis Approach ****:** defines how analysis will be performed for the project or products and is a decision about the types of requirements to be elaborated and how they will be stored. Section 7.1 **       **
-- **Analysis Models ****:** section 7.2 **       **
-- **Confirmed Elicitation Results ****:** section 6.3 **       **
-- **Relationships and Dependencies ****:** define the links between requirements. Covered in more detail in section 8.2. **       **
+- **Analysis Approach ****:** defines how analysis will be performed for the project or products and is a decision about the types of requirements to be elaborated and how they will be stored. Section 7.1 
+- **Analysis Models ****:** section 7.2 
+- **Confirmed Elicitation Results ****:** section 6.3 
+- **Relationships and Dependencies ****:** define the links between requirements. Covered in more detail in section 8.2. 
 - **Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section 5.3
 
 **Tools &amp; Techniques:**
@@ -761,7 +762,7 @@ No situation requires all types of models listed below to be used. Some models a
 - **Use Case ****:** is a process model that uses textual narratives to describe the system-user interactions to achieve successful completion of a goal. This model is frequently used to identify and elaborate requirements.
 - **User Story ****:** is a method to document stakeholder requirements from the user&#39;s point of view with a focus on the value or benefit achieved by the user with the completion of that story. User stories help bridge business requirements to solution requirements.
 
-**       **
+
 
 **Output**** s ****:**
 
@@ -771,19 +772,19 @@ No situation requires all types of models listed below to be used. Some models a
 
 **7.4        DEFINE ACCEPTANCE CRITERIA**
 
-**       ** Is the process of gaining an understanding of the criteria that make up various aspects of a solution and what must be developed to meet the business objective. The key benefit of this process is that it provides insights that help refine requirements while providing the basis of a shared understanding for what is to be delivered.
+ Is the process of gaining an understanding of the criteria that make up various aspects of a solution and what must be developed to meet the business objective. The key benefit of this process is that it provides insights that help refine requirements while providing the basis of a shared understanding for what is to be delivered.
 
  Acceptance criteria are the conditions that need to be met before a solution is accepted. Acceptance criteria form the basis of acceptance test and are important in evaluating the solution during product review sessions, where the product owner or business stakeholders decide whether to accept and release the developed solution. Acceptance criteria can be created at different levels, including: requirement, iteration, release, and product levels. In adaptive approaches, acceptance criteria may be written at the level of a user story, where multiple acceptance criteria need to be met for the user story to be accepted.
 
-**       **
 
-**       **
+
+
 
 **Inputs:**
 
-- **Analysis Approach ****:** section 7.1 **       **
-- **Analysis Models ****:** section 7.2 **       **
-- **Require ****ments &amp; Other Product Information:** section 7.3 **d Capabilities and Features       **
+- **Analysis Approach ****:** section 7.1 
+- **Analysis Models ****:** section 7.2 
+- **Require ****ments &amp; Other Product Information:** section 7.3 **d Capabilities and Features**
 - **Solution Evaluation Approach ****:** defines what types of metrics will be used to measure the performance of a solution. Covered in section 9.2.
 
 **Tools &amp; Techniques:**
@@ -792,27 +793,27 @@ No situation requires all types of models listed below to be used. Some models a
 - **Definition of Done ****:** is a series of conditions that the entire team agrees to complete before an item is considered sufficiently developed to be accepted by the business stakeholders. It helps a project team know that the work is complete so the team can move on to the next user story or iteration (sprint). They are often defined at the user story level, iteration level, release level, and product level.
 - **Story Elaboration ****:** is the process by which user stories are supplemented with additional information from conversations with business stakeholders, until they are sufficiently detailed for product development to begin work. In adaptive approaches, user stories are commonly written at a higher level of detail than functional and nonfunctional requirements, so story elaboration is the technique used to add the extra details for each story so that development teams have enough detail and information to build the solution.
 
-**       **
+
 
 **Outputs:**
 
-**•       **  **Required Capabilities &amp; Features**** Acceptance Criteria:** are concrete and demonstrable conditions about an item that need to be met for the business stakeholders to accept the item. The definition of done is part of this output.
+**•**  **Required Capabilities &amp; Features**** Acceptance Criteria:** are concrete and demonstrable conditions about an item that need to be met for the business stakeholders to accept the item. The definition of done is part of this output.
 
 
 
 **7.5        VERIFY REQUIREMENTS**
 
-**       ** Is the process of checking that requirements are of sufficient quality. The key benefit of this process is that is increases the likelihood that the requirements are stated and/or understood in a way that meets the defined standard for the organization which results in the communication of requirements to all interested parties, and contributes to the quality of the final product.
+ Is the process of checking that requirements are of sufficient quality. The key benefit of this process is that is increases the likelihood that the requirements are stated and/or understood in a way that meets the defined standard for the organization which results in the communication of requirements to all interested parties, and contributes to the quality of the final product.
 
  Verification is the process of reviewing the requirements and other product information for errors, conflicts and adherence to quality standards. Verification also involves evaluating whether requirements and other product information comply with a regulation, specification, or imposed condition. In contrast validation is the assurance that a product meets the needs of the customer and other identified stakeholders.
 
  Verification is performed to insure that the requirements and other product information are constructed properly and that the models are clear enough to be used effectively. To a certain degree, the author of the materials can do some verification, however, verification is also performed by someone else who is not on the project. Product verification that does not pass the verification steps needs to be elaborated or rewritten so that it can be deemed of sufficient quality. At the basic level, the standard for evaluating the information are the 3C&#39;s: correct, complete, and consistent.
 
-**       **
+
 
 **Inputs:**
 
-- **Analysis Approach ****:** section 7.1 **       **
+- **Analysis Approach ****:** section 7.1 
 - **Business Analysis **** Org ****Organizational**  **Standards**** : **describe any expected quality, formatting rules, syntax rules, and requirements structure imposed by the organization. These standards define what a good requirement set is and may be based on industry standards.****
 - **Compliance **** or Regulator ****y**  **Standards**** : ****** are imposed by external organizations, commonly for reasons related to security, protecting personal information, legal considerations, or safety reasons. Most often they are government or industry regulations.
 - **Requir ****ements &amp; Other Product Information:** section 7.3 **ed Capabilities and Features**
@@ -828,7 +829,7 @@ No situation requires all types of models listed below to be used. Some models a
   - Testable – determines whether a story can be finitely tested by a test team and the customer understands how to accept the requirement as done. Usually written as acceptance criteria.
 - **Peer Reviews ****:** involve one or more coworkers reviewing the work completed by the business analyst. Commonly, the peer who performs the review is another business analyst, team lead, or quality control team member. Reviewers focus on the logic and readability of the requirements and looking for consistency with in the requirements for avoid contradictions. Often, business analysts will have an informal peer review meeting before reviewing requirements with stakeholders to ensure that issues are resolved.
 
-**       **
+
 
 **Output**** s ****:**
 
@@ -836,17 +837,17 @@ No situation requires all types of models listed below to be used. Some models a
 
 
 
-**7.6        VALIDATE REQUIREMENTS       **
+**7.6        VALIDATE REQUIREMENTS**
 
-**       ** Is the process of checking that the requirements meet the business goals and objectives. The key benefit of this process is that it minimizes the risks of missing stakeholder expectations or delivering the wrong solution (BB note: this is alleviated in Scrum as a Product Owner is responsible for the backlog and validating stories before they are built).
+ Is the process of checking that the requirements meet the business goals and objectives. The key benefit of this process is that it minimizes the risks of missing stakeholder expectations or delivering the wrong solution (BB note: this is alleviated in Scrum as a Product Owner is responsible for the backlog and validating stories before they are built).
 
  The main goal of validating the product information is to come to a common understanding with the business stakeholders that the solution will address and support the business goals and objectives. Most validation requires participation from stakeholders.
 
 **Inputs:**
 
-- **Acceptance Criteria ****:** section 7.4 **       **
-- **Analysis Approach ****:** section 7.1 **       **
-- **Business Goals &amp; Objectives ****:** section 4.3 **       **
+- **Acceptance Criteria ****:** section 7.4 
+- **Analysis Approach ****:** section 7.1 
+- **Business Goals &amp; Objectives ****:** section 4.3 
 - **Require ****ments &amp; Other Product Information**** d Capabilities and Features ****:** section 7.3
 
 **Tools &amp; Techniques:**
@@ -857,7 +858,7 @@ No situation requires all types of models listed below to be used. Some models a
 - **Traceability Matrix ****:** is a grid that allows linkages between objects. It can be used to trace requirements to analysis models or downstream items such as test cases. This analysis ensures that each requirement traces directly back to support a business requirement. More information in section 8.2.
 - **Walkthroughs ****:** are used to review the requirements with the stakeholders and to receive confirmation that the requirements as stated are valid. Walkthroughs entail holding a meeting to review the requirements as a group to ensure there is a common understanding of the requirements or user stories (BB note: OTS refers to this tool as a meeting called Backlog Refinement).
 
-**       **
+
 
 **Output**** s ****:**
 
@@ -867,20 +868,20 @@ No situation requires all types of models listed below to be used. Some models a
 
 **7.7        PRIORITIZE REQUIREMENTS &amp; OTHER PRODUCT INFORMATION**
 
-**       ** Is the process of understanding how individual pieces of product information achieve stakeholder objectives, and by using those pieces of information, facilitate the ranking of work or user stories. The key benefit of this process is that it aligns all stakeholders with how the requirements achieve the goals and objectives and determines how to allocate the requirements to iterations.
+ Is the process of understanding how individual pieces of product information achieve stakeholder objectives, and by using those pieces of information, facilitate the ranking of work or user stories. The key benefit of this process is that it aligns all stakeholders with how the requirements achieve the goals and objectives and determines how to allocate the requirements to iterations.
 
  Prioritizing requirements is an important step in managing product scope and determines what should be worked on first or next so that business objectives are achieved in an order that best meets the needs of the organization and focusing on what add value the most. Prioritization also supports the allocation of requirements to iterations or releases for planning purposes.
 
  Business analyst might recommend prioritization, but it is necessary for accountable stakeholders (product owner) who have the authority to prioritize requirement to be involved in the process. Business analyst facilitate and negotiate prioritization decisions. Setting expectations on prioritization will minimize stakeholder becoming unsatisfied when their requirements are sent to the bottom of the list.
 
-**       **
+
 
 **Inputs:**
 
-- **Analysis Approach ****:** section 7.1 **       **
-- **Business Goals &amp; Objectives ****:** section 4.3 **       **
-- **Change Requests ****:** are appeals to make a change to a requirement or product information that are raised by business stakeholders or project team after a set of requirements have been baselined. Stakeholder requests may be written as a user story and reprioritization occurs during the planning session for the next iteration. Covered in section 8.4 **       **
-- **Relationships and Dependencies ****:** define the links between requirements. Section 8.2. **       **
+- **Analysis Approach ****:** section 7.1 
+- **Business Goals &amp; Objectives ****:** section 4.3 
+- **Change Requests ****:** are appeals to make a change to a requirement or product information that are raised by business stakeholders or project team after a set of requirements have been baselined. Stakeholder requests may be written as a user story and reprioritization occurs during the planning session for the next iteration. Covered in section 8.4 
+- **Relationships and Dependencies ****:** define the links between requirements. Section 8.2. 
 - **Require ****ments and other Product Information**** :** section 7.3.
 
 **d**  **Capabilities and Features**
@@ -904,7 +905,7 @@ No situation requires all types of models listed below to be used. Some models a
 - **Story Mapping ****:** section 7.2.
 - **Traceability Matrix ****:** a table that connects or traces links between items. Business analyst use traceability matrices to trace requirements backward to features and business objectives, or forwards to develop artifacts or test cases. Section 8.2.
 
-**       **
+
 
 **Output**** s ****:**
 
@@ -912,7 +913,7 @@ No situation requires all types of models listed below to be used. Some models a
 
 **7.8        IDENTIFY &amp; ANALYZE PRODUCT RISKS**
 
-**       ** Is the process of uncovering and examining assumption and examining uncertainties that could positively or negatively affect success in the definition, development, and expected results of the solution. The key benefits of this process are that it supports proactive management of uncertainties in business analysis activities and addresses potential strengths and weaknesses in the product. Product risks are uncertainties that can affect the success and results of the product or solution and can lead to failures in the product if they are not addressed.
+ Is the process of uncovering and examining assumption and examining uncertainties that could positively or negatively affect success in the definition, development, and expected results of the solution. The key benefits of this process are that it supports proactive management of uncertainties in business analysis activities and addresses potential strengths and weaknesses in the product. Product risks are uncertainties that can affect the success and results of the product or solution and can lead to failures in the product if they are not addressed.
 
  Identifying and analyzing product risks includes the following activities:
 
@@ -934,13 +935,13 @@ When identifying and analyzing product risks, consideration is provided to any a
   - Dependencies – logical relationships that exist between two or more entities. Risks can be identified for situation if dependencies are not met.
   - Issues – points or matter in question, dispute, or not settled and under discussion.
 
-**       **
+
 
 **Inputs:**
 
-- **Analysis Approach ****:**  section 7.1 **       **
-- **Business Goals &amp; Objectives ****:** section 4.3 **       **
-- **Product Scope ****:** section 4.6 **       **
+- **Analysis Approach ****:**  section 7.1 
+- **Business Goals &amp; Objectives ****:** section 4.3 
+- **Product Scope ****:** section 4.6 
 - **Requir ****ements &amp; Other Product Information:** section 7.3 **ed Capabilities and Features**
 
 **Tools &amp; Techniques:**
@@ -957,7 +958,7 @@ When identifying and analyzing product risks, consideration is provided to any a
 - **Root Cause &amp; Opportunity Analysis ****:** section 4.2
 - **SWOT Analysis ****:** Section 4.2
 
-**       **
+
 
 **Output**** s ****:**
 
@@ -967,15 +968,15 @@ When identifying and analyzing product risks, consideration is provided to any a
 
 **7.9        ASSESS PRODUCT DESIGN OPTIONS**
 
-**       **
 
-**       ** Is the process of identifying, analyzing, and comparing solution design options based on the business goals and objectives, expected costs of implementation, feasibility and associated risks, and using the assessment results of this assessment to provide recommendations regarding the design options presented. The key benefit of this process is that it allows for informed recommendations of design options.
+
+ Is the process of identifying, analyzing, and comparing solution design options based on the business goals and objectives, expected costs of implementation, feasibility and associated risks, and using the assessment results of this assessment to provide recommendations regarding the design options presented. The key benefit of this process is that it allows for informed recommendations of design options.
 
  Assessing product design goes beyond what the product should do and starts to focus on how it should be built or how it should look. This process details how designs would evolve into a solution or product. Each option&#39;s analysis results may provide relevant information to articulate the pros, cons, risks, and costs of the option. Design discussions need to take place before construction begins for any given product, even if it&#39;s only a small piece. Product design assessments can be conducted concurrently to building requirements.
 
 **Inputs:**
 
-- **Business Goals &amp; Objectives ****:** section 4.3 **       **
+- **Business Goals &amp; Objectives ****:** section 4.3 
 - **Prioritized Requirements &amp; Other Product Information ****:** section 7.7
 
 **Tools &amp; Techniques:**
@@ -988,7 +989,7 @@ When identifying and analyzing product risks, consideration is provided to any a
 - **Real Options ****:** section 4.4
 - **Vendor Assessment ****:** on many projects, vendors may provide a solution that best meets the requirements. When assessing product design options, relevant vendors and their products are evaluated to understand the viability, strengths, weaknesses, and risks of each vendor solution.
 
-**       **
+
 
 **Output**** s ****:**
 
@@ -998,13 +999,13 @@ When identifying and analyzing product risks, consideration is provided to any a
 
 **8        TRACEABILITY &amp; MONITORING**
 
-**       **  **       ** Includes the processes used to establish relationships and dependencies between requirements and other product information, and will help insure requirements are approved, managed, and impacts to changes are assessed. Traceability is the ability to track information across the product life cycle by establishing linkages, known as relationships &amp; dependencies, between objects. Traceability may be bidirectional, forward, and backward, because requirements are traced in more than one direction. For example, backwards traceability is from the requirements to the scope features. Traceability enables the discovery of missing and extraneous requirements.
+   Includes the processes used to establish relationships and dependencies between requirements and other product information, and will help insure requirements are approved, managed, and impacts to changes are assessed. Traceability is the ability to track information across the product life cycle by establishing linkages, known as relationships &amp; dependencies, between objects. Traceability may be bidirectional, forward, and backward, because requirements are traced in more than one direction. For example, backwards traceability is from the requirements to the scope features. Traceability enables the discovery of missing and extraneous requirements.
 
 Monitoring ensures that product information remains accurate from the point when product information has been approved through its implementation. It involves managing changes to product information and determining action to maintain the quality of the product.
 
 **8.1        DETERMINE TRACEABILITY &amp; MONITORING APPROACH**
 
-**       ** Is the process of considering how traceability will be performed on the project/product, and defining how requirement changes will be managed. The key benefit of this process is that it appropriately sized the level of traceability and formality of the requirements change management process for the situation.
+ Is the process of considering how traceability will be performed on the project/product, and defining how requirement changes will be managed. The key benefit of this process is that it appropriately sized the level of traceability and formality of the requirements change management process for the situation.
 
  Each determine traceability and monitoring approach should be structured at a level of formality that meets the needs of a project/product. A traceability process minimizes the likelihood of missing requirements in the final product, and is not time consuming and wasteful to maintain. A change management process ensures that changes align with the business objectives, and is simple to implement necessary changes. Components of this approach related to traceability may include:
 
@@ -1023,11 +1024,11 @@ The traceability approach defines the requirements architecture that will be use
 
 The change management process defines how changes to product information will be handled across the project. Adaptive approaches expect that requirements will evolve over time.
 
-**       **
+
 
 **Inputs:**
 
-- **Compliance Standards ****:** are imposed by external organizations, commonly for reasons related to security, protecting personal information, legal considerations, or safety reasons. Most often they are government or industry regulations. **       **
+- **Compliance Standards ****:** are imposed by external organizations, commonly for reasons related to security, protecting personal information, legal considerations, or safety reasons. Most often they are government or industry regulations. 
 - **Configuration Management Standards ****:** is a collection of formal documents, processes, templates, and documentation used to apply governance to changes to the solution or product under development. It ensures that the product being built conforms to its approved requirements. When such standards are not in place, the team needs to determine what the configuration management process will be for all aspects of the project, including the business analysis processes.
 - **Product Scope ****:** section 4.6
 
@@ -1035,7 +1036,7 @@ The change management process defines how changes to product information will be
 
 - **Retrospectives and Lessons Learned ****:** section 5.7
 
-**       **
+
 
 **Output**** s ****:**
 
@@ -1043,12 +1044,12 @@ The change management process defines how changes to product information will be
 
 **8.2        ESTABLISH RELATIONSHIPS &amp; DEPENDENCIES**
 
-**       ** Is the process of tracing or setting linkages between and among requirements and other product information. The key benefits of this process are that it helps in checking that each requirement adds business value and supports controlling of product scope.
+ Is the process of tracing or setting linkages between and among requirements and other product information. The key benefits of this process are that it helps in checking that each requirement adds business value and supports controlling of product scope.
 
  As product information is progressively elaborated, and additional information surfaces, relationships and dependencies are created and revisited. Product information is traces to help provide and complete views of the product scope. Linkages among different components of product information help do the following:
 
 -
-  -         ** Ensure the product information adds business value – tracing each component of product information helps ensure its relevancy.
+  -  ** Ensure the product information adds business value – tracing each component of product information helps ensure its relevancy.
   - Manage scope – non-value-added product information is highlighted through product information that cannot be traced back to the product scope and business goals and objectives.
   - Minimizes the probability of missing requirements
   - Perform impact analysis
@@ -1058,8 +1059,8 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
 
 **Inputs:**
 
-- **Product Scope ****:** section 4.6 **       **
-- **Require ****ments &amp; Other Product Information:** section 7.3 **d Capabilities and Features       **
+- **Product Scope ****:** section 4.6 
+- **Require ****ments &amp; Other Product Information:** section 7.3 **d Capabilities and Features**
 - **Traceability &amp; Monitoring Approach ****:**  section 8.1
 
 **Tools &amp; Techniques:**
@@ -1070,7 +1071,7 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
 - **Story Slicing ****:** section 7.3
 - **Traceability Matrix ****:** section 7.2
 
-**       **
+
 
 **Output**** s ****:**
 
@@ -1080,18 +1081,18 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
 
 **8.3        SELECT &amp; APPROVE REQUIREMENTS**
 
-**       **
 
-**       ** Is the process of facilitating discussions with stakeholders to negotiate and confirm which requirements should be incorporated within an iteration, release, or project. The key benefit of this process is that is provides authorization to consider how and when to build all or part of a solution to develop or modify a product. Approving requirements is performed to obtain agreement that the requirements accurately depict what the product team is being asked to build. On projects using an adaptive life cycle, requirements are effectively baselined when they are identified as planned work to be addressed in the next or subsequent iteration.
+
+ Is the process of facilitating discussions with stakeholders to negotiate and confirm which requirements should be incorporated within an iteration, release, or project. The key benefit of this process is that is provides authorization to consider how and when to build all or part of a solution to develop or modify a product. Approving requirements is performed to obtain agreement that the requirements accurately depict what the product team is being asked to build. On projects using an adaptive life cycle, requirements are effectively baselined when they are identified as planned work to be addressed in the next or subsequent iteration.
 
  Business analyst includes facilitating discussions among stakeholders to work through different viewpoints and conflicts in requirements and to negotiate an agreed upon outcome, and ultimately, approval.
 
 **Inputs:**
 
-- **Product Scope ****:** section 4.3 **       **
-- **Relationships &amp; Dependencies ****:** section **       ** 8.2
-- **Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section 5.3 **       **
-- **Validated Requirements &amp; Other Product Information ****:** section 7.6 **       **
+- **Product Scope ****:** section 4.3 
+- **Relationships &amp; Dependencies ****:** section  8.2
+- **Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section 5.3 
+- **Validated Requirements &amp; Other Product Information ****:** section 7.6 
 - **Verified Requirements &amp; Other Product Information ****:** section 7.5
 
 **Tools &amp; Techniques:**
@@ -1108,7 +1109,7 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
 - **Requirements Management Tool ****:** section 8.2
 - **Story Mapping ****:** section 7.2
 
-**       **
+
 
 **Output**** s ****:**
 
@@ -1120,19 +1121,19 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
 
 **8.4        MANAGE CHANGES TO REQUIREMENTS &amp; OTHER PRODUCT INFORMATION**
 
-**       ** Is the process of examining changes or defects that arise during a project by understanding the value and impact of the changes. As changes are agreed upon, information about those changes is reflected wherever necessary to support prioritization and eventual product development. The key benefits of this process include facilitating the incorporation of important solution changes, limiting unnecessary changes, and providing understanding of how change will impact the end product.
+ Is the process of examining changes or defects that arise during a project by understanding the value and impact of the changes. As changes are agreed upon, information about those changes is reflected wherever necessary to support prioritization and eventual product development. The key benefits of this process include facilitating the incorporation of important solution changes, limiting unnecessary changes, and providing understanding of how change will impact the end product.
 
   On adaptive project, change is ongoing. The team utilizes emergent learning, where stakeholders discover their requirements as portions of the solution are delivered over time. A prioritization process is used to determine if and when a change is considered for inclusion in the product.
 
-**       **
+
 
 **Inputs:**
 
-- **Approved Requirements ****:** section 8.3 **       **
-- **Business Goals &amp; Objectives ****:** section 4.3 **       **
-- **Change Requests ****:** section7.7 **       **
-- **Product Scope ****:** section 4.7 **       **
-- **Relationships &amp; Dependencies ****       **  **:** section 8.2
+- **Approved Requirements ****:** section 8.3 
+- **Business Goals &amp; Objectives ****:** section 4.3 
+- **Change Requests ****:** section7.7 
+- **Product Scope ****:** section 4.7 
+- **Relationships &amp; Dependencies **  **:** section 8.2
 - **Traceability &amp; Monitoring Approach ****:** section 8.1
 
 **Tools &amp; Techniques:**
@@ -1144,7 +1145,7 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
 - **Requirements Management Tool ****:** section 8.2
 - **Traceability Matrix ****:** section 8.2
 
-**       **
+
 
 **Output**** s ****:**
 
@@ -1152,7 +1153,7 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
 
 **9        SOLUTION EVALUATION**
 
-**       ** Includes the processes to validate a full solution or a segment of a solution that is about to be or has already been implemented. Evaluation determines how well a solution meets the business needs expressed by stakeholders, including delivering value to the customer or user and consists of the work done to analyze measurements obtained for the solution by comparing actual results of acceptance testing to the expected or desired values, as defined by the acceptance criteria.
+ Includes the processes to validate a full solution or a segment of a solution that is about to be or has already been implemented. Evaluation determines how well a solution meets the business needs expressed by stakeholders, including delivering value to the customer or user and consists of the work done to analyze measurements obtained for the solution by comparing actual results of acceptance testing to the expected or desired values, as defined by the acceptance criteria.
 
  Preparation for evaluating a solution includes defining and confirming the expected business, value, and identifying and defining what kind of performance data will be used for evaluation. For projects and products, the following can be stated with regard to solution evaluation:
 
@@ -1164,18 +1165,18 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
 
 **9.1        EVALUATE SOLUTION PERFORMANCE**
 
-**       ** Is the process of evaluating a solution to determine whether the implemented solution, or component, is delivering the business value as intended. The key benefit of this process is that the analysis provides tangible data to determine whether the solution that the business has invested is achieving the expected results.
+ Is the process of evaluating a solution to determine whether the implemented solution, or component, is delivering the business value as intended. The key benefit of this process is that the analysis provides tangible data to determine whether the solution that the business has invested is achieving the expected results.
 
  Evaluation of solution performance typically occurs after a solution has been released. Business analysis techniques are used to analyze variation between desired and actual results as part of assessing the business value of the solution. Because many measurements need to take place after a solution has been released, it may take a long duration of time to assess the solution, and will require organizational commitments to measure those business values.
 
-**       **
+
 
 **Inputs:**
 
-- **Business Case ****       **  **:** section 4.6
-- **Business Goals &amp; Objectives ****:** section **       ** 4.3
-- **Evaluated Acceptance Results ****:** section 9.3 **       **
-- **Performance Data ****:** are a quantifies output of a product. Examples include reduction in costs, productivity achieved in using a service, level of customer satisfaction. Ideally, performance data are measured for the stated business goals and objectives. Some objective may not use data as metrics. Proxy performance data could be used, and include measurements such as the average duration of a task, response times for solutions involving software, or counts of errors made while performing tasks. **       **
+- **Business Case **  **:** section 4.6
+- **Business Goals &amp; Objectives ****:** section  4.3
+- **Evaluated Acceptance Results ****:** section 9.3 
+- **Performance Data ****:** are a quantifies output of a product. Examples include reduction in costs, productivity achieved in using a service, level of customer satisfaction. Ideally, performance data are measured for the stated business goals and objectives. Some objective may not use data as metrics. Proxy performance data could be used, and include measurements such as the average duration of a task, response times for solutions involving software, or counts of errors made while performing tasks. 
 - **Solution Evaluation Approach ****:** section 9.2
 
 **Tools &amp; Techniques:**
@@ -1186,7 +1187,7 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
 - **Prioritization Schemes ****:** section 7.7
 - **Root Cause and Opportunity analysis ****:** section 4.2
 
-**       **
+
 
 **Output**** s ****:**
 
@@ -1196,16 +1197,16 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
 
 **9.2        DETERMINE SOLUTION EVALUATI**** ON ****NG**  **APPROACH**
 
-**       ** is the process of determining which aspects of the organization and/or solution will be evaluated, how and when performance will be measured, and by whom. The key benefit of this process is that performance indicators and metrics are selected or defined so they can be collected and reported on, and evaluated to support continual improvement of the organization or product.
+ is the process of determining which aspects of the organization and/or solution will be evaluated, how and when performance will be measured, and by whom. The key benefit of this process is that performance indicators and metrics are selected or defined so they can be collected and reported on, and evaluated to support continual improvement of the organization or product.
 
  Solution evaluation approach should be defined as early as possible because there may be risks that when needed at a later product life cycle phase, it will be expensive or impossible to obtain.
 
-**       **
+
 
 **Inputs:**
 
-- **Metrics and KPIs ****:** is a set of quantifiable measurements used to evaluate a solution or business. In solution evaluation, a metric defines how solution performance can be quantified. Key performance indicators are a related type of metric, usually defines by an organization&#39;s executives, use to evaluate the organization&#39;s progress toward meeting its objectives or goals. **       **
-- **Product Scope ****:** section **       ** 4.6
+- **Metrics and KPIs ****:** is a set of quantifiable measurements used to evaluate a solution or business. In solution evaluation, a metric defines how solution performance can be quantified. Key performance indicators are a related type of metric, usually defines by an organization&#39;s executives, use to evaluate the organization&#39;s progress toward meeting its objectives or goals. 
+- **Product Scope ****:** section  4.6
 - **Situation Statement ****:** section 4.1
 
 **Tools &amp; Techniques:**
@@ -1215,7 +1216,7 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
 - **Prioritization Schemes ****:** section 7.7
 - **Retrospectives and Lessons Learned ****:** section 5.7
 
-**       **
+
 
 **Output**** s ****:**
 
@@ -1223,9 +1224,9 @@ Sometimes a requirement is not able to be satisfies in a solution without includ
 
 **9.3        EVALUATE ACCEPTANCE RESULTS &amp; ADDRESS DEFECTS**
 
-**       **
 
-**       ** Is the process of deciding what to do with the results from a comparison of the defined acceptance criteria against the solution. The key benefit of this process is that it allows informed decision making about whether to release all or part of a solution and whether to undertake changes, or enhancements to the product.
+
+ Is the process of deciding what to do with the results from a comparison of the defined acceptance criteria against the solution. The key benefit of this process is that it allows informed decision making about whether to release all or part of a solution and whether to undertake changes, or enhancements to the product.
 
  This process compares the acceptance criteria and the actual results of acceptance testing to provide recommendations on how to deal with situations where aspects of a solution do not meet the acceptance criteria specified for it. It focuses on the actual results from comparing acceptance testing to their acceptance criteria, rather on the tests themselves. This distinction supports common practice in the industry, where organizations distinguish between roles that conduct business analysis and roles that perform testing.
 
@@ -1252,7 +1253,7 @@ For solutions that involve software, where an organization has adopted automated
 - **Traceability Matrix ****:** section 8.2
 - **Variance Analysis ****:** section 5.7
 
-**       **
+
 
 **Output**** s ****:**
 
@@ -1262,7 +1263,7 @@ For solutions that involve software, where an organization has adopted automated
 
 **9.4        OBTAIN SOLUTION ACCEPTANCE FOR RELEASE**
 
-**       ** Is the process of facilitating a decision on whether to release a partial or full solution into production and eventually to an operation team, as well as transitioning knowledge and existing information about the product, its risks, known issues, and any workarounds that may have arisen in response to those issues. The key benefit of this process is the creation of an agreed-upon break between building a solution and releasing a solution for acceptance by the stakeholders.
+ Is the process of facilitating a decision on whether to release a partial or full solution into production and eventually to an operation team, as well as transitioning knowledge and existing information about the product, its risks, known issues, and any workarounds that may have arisen in response to those issues. The key benefit of this process is the creation of an agreed-upon break between building a solution and releasing a solution for acceptance by the stakeholders.
 
  Obtaining solution acceptance for a release provides the stakeholders who are accountable for the product with an opportunity to decide whether it should be released in whole, in part, or not at all. For solution acceptance, the term _release_ may refer to releasing a solution or a segment of a solution into a production environment while its development team is still responsible for it. It can also refer to releasing a solution or a segment of it to the operational area who will take responsibility for it.
 
@@ -1276,14 +1277,14 @@ For solutions that involve software, where an organization has adopted automated
 
 A decision to release a solution to its operational area requires confirmation of the completion of any warranty period. A warranty period is an interval of time during which the product development team is responsible for addressing any defects found after the solution is released for production.
 
-**       **
+
 
 **Inputs:**
 
-- **Approved Requirements ****:** section8.3 **       **
-- **Evaluated Acceptance Results ****:** section9.3 **       **
-- **Product Risk Analysis ****:** section7.8 **       **
-- **Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section **       ** 5.3
+- **Approved Requirements ****:** section8.3 
+- **Evaluated Acceptance Results ****:** section9.3 
+- **Product Risk Analysis ****:** section7.8 
+- **Stakeholder Eng ****agement**  **&amp; Comm**** unication **** Approach ****:** section  5.3
 - **Transition Plan ****:** section 5.5
 
 **Tools &amp; Techniques:**
@@ -1295,7 +1296,7 @@ A decision to release a solution to its operational area requires confirmation o
 - **Stakeholder Engagement and Communication Approach**
 - **Transition Plan**
 
-**       **
+
 
 **Output**** s ****:**
 
